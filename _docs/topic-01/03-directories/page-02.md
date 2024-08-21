@@ -25,14 +25,14 @@ The top-most directory is considered the **root directory**. Whatever current �
         └── <i class="far fa-file-alt"></i> file.txt
 </pre>
 
-<span class="label label-info">Note</span> The root directory in our trees will be shorted to `.` from here-on-out.
+<span class="label label-info">Note</span> The root directory in our trees will be shortened to `.` from here on out.
 
 
 <div class="divider-pg"></div>
 
 
 ## Relationships
-The web also use familial terms to describe content relationships, such as “grandparent,” “parent,” and “child.” Let's see how this applies to directories:
+The web also uses familial terms to describe content relationships, such as “grandparent,” “parent,” and “child.” Let's see how this applies to directories:
 
 
 ### Immediate
