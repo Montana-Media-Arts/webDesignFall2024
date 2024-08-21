@@ -6,7 +6,7 @@ permalink: /topic-00/todo-homework/
 categories: uncategorized
 ---
 
-This area will contain related areas you should explore. Most are required, but some will be optional for self-guided learning.
+This area will contain related content you should explore. Most are required, but some will be optional for self-guided learning.
 
 <div class="row text-center">
   <div class="col-lg-4">
