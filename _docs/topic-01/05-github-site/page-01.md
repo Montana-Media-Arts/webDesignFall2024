@@ -9,7 +9,7 @@ tags: git, vcs
 <div class="divider-heading"></div>
 
 
-One great thing about working with text files is that their simplicity makes it easy to track changes between various versions of that file. Since the files contain only <a href="http://www.asciitable.com" target="_blank">ASCII</a> characters, it is easy to create programs that can look for character or word level changes to a document.
+One great thing about working with text files is that their simplicity makes it easy to track changes between various versions of that file. Since the files contain only <a href="http://www.asciitable.com" target="_blank">ASCII</a> characters, it is easy to create programs that can look for character or word-level changes to a document.
 
 <blockquote>
   <p><i>You can think of a <b>version control system</b> (VCS) as a way to remember all the changes you made.” It lets you save a snapshot of your complete project at any time you want. When you later take a look at an older snapshot (let's start calling it “version”), your VCS shows you exactly how it differed from the previous one.</i></p>
