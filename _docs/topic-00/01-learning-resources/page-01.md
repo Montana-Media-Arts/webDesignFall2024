@@ -1,7 +1,7 @@
 ---
 title: Canvas
 module: topic-00
-permalink: /topic-00/canvas/
+permalink: /topic-00/moodle/
 categories: logistics
 tags: grades, canvas
 ---
