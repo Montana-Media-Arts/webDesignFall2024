@@ -15,14 +15,14 @@ As you just read in “<a href="../web-files-text">Text Documents</a>”, said *
 ## Creating plain text files
 Text files can be created and edited using a **“text editor,”** which is any application for editing ASCII text documents. <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
 
-The default application on Mac and Windows are the following:
+The default applications on Mac and Windows are the following:
 
 - macOS - _textEdit.app_
 - Windows - _Notepad.exe_
 
 
 ## What types of files are text documents?
-The simplest and most common text document is a "text file", which will bare the `.txt` extension. This generic document type contains only ASCII characters. These are the familiar characters used when writing and reading (A-Z, a-z, 0-9) and special characters (such as #, %, !, etc.). These files also include carriage returns (new line), tabs, spaces, and an end-of-file (EOF) designation that lets a program know where the file finishes. This last group contains characters that are there but not displayed in basic text editors.
+The simplest and most common text document is a "text file," which will bear the `.txt` extension. This generic document type contains only ASCII characters. These are the familiar characters used when writing and reading (A-Z, a-z, 0-9) and special characters (such as #, %, !, etc.). These files also include carriage returns (new line), tabs, spaces, and an end-of-file (EOF) designation that lets a program know where the file finishes. This last group contains characters that are there but not displayed in basic text editors.
 
 <img src="../img/txt-file.png" alt="A .txt file open in textEdit.app" title="A .txt File" style="width: 400px;" />
 
@@ -54,4 +54,4 @@ In this class, we will be using the following text file types;
 - HyperText Markup Language (HTML); `.html`
 - Cascading Style Sheet (CSS); `.css`
 
-We'll look at the first type; Markdown or `.md` files using a text editor.
+We'll look at the first type, Markdown or `.md` files using a text editor.
