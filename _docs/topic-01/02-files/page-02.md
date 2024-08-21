@@ -20,7 +20,7 @@ In web design, **Images** bring web pages to life. Sites can contain many differ
   </div>
   <div class="col-lg-10">
     <h3><b>J</b>oint <b>P</b>hotographic <b>E</b>xperts <b>G</b>roup (<b>JPEG</b> or <b>JPG</b>)</h3>
-    <p>The JPEG is the most-utilized image format in digital publishing. JPEGs can be compressed to low-, medium, and high-quality.  This means that smaller JPEG files can be displayed on mobile screens without sacrificing the integrity of the image. 
+    <p>The JPEG is the most utilized image format in digital publishing. JPEGs can be compressed to low-, medium, and high-quality.  This means that smaller JPEG files can be displayed on mobile screens without sacrificing the integrity of the image. 
     
     Keep in mind that file types like JPG, PNG, and GIF are “raster” images and have defined dimensions. Being a raster image means the image loses quality when resized or changing the original dimensions (width and height).</p>
 
@@ -40,11 +40,11 @@ In web design, **Images** bring web pages to life. Sites can contain many differ
   </div>
   <div class="col-lg-10">
     <h3>Portable Network Graphics (<b>PNG</b>)</h3>
-    <p>PNGs allow for transparency, an important tool in graphic and web design. Unlike JPGs, there is no compression with PNGs; these files will not lose quality when saved. However, this means PNGs are a rather large file type, and should be used sparingly or on small images.</p>
+    <p>PNGs allow for transparency, an important graphic and web design tool. Unlike JPGs, there is no compression with PNGs; these files will not lose quality when saved. However, this means PNGs are a rather large file type and should be used sparingly or on small images.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Good for graphics like logos and icons.</li>
-      <li class="icon-pro">When the image has areas of full- or partial-transparency (like drop shadows).</li>
+      <li class="icon-pro">When the image has areas of full- or partial transparency (like drop shadows).</li>
       <li class="icon-con">Large file size.</li>
       <li class="icon-con">Rastered file.</li>
     </ul>
@@ -58,7 +58,7 @@ In web design, **Images** bring web pages to life. Sites can contain many differ
   </div>
   <div class="col-lg-10">
     <h3><b>G</b>raphics <b>I</b>nterchange <b>F</b>ormat (<b>GIF</b>)</h3>
-    <p>Similar to PNGs, GIFs have certain properties allowing for image effects. Often, GIFs are used to animated files since several consecutive frames can be included in a single image file. However, GIFs can be quite large, and may require heavy compression to be feasible in site design.</p>
+    <p>Similar to PNGs, GIFs have certain properties allowing for image effects. Often, GIFs are used to animate files since several consecutive frames can be included in a single image file. However, GIFs can be quite large and may require heavy compression to be feasible in site design.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Required for animated images.</li>
@@ -83,7 +83,7 @@ In web design, **Images** bring web pages to life. Sites can contain many differ
       <li class="icon-pro">Resolution-independent.</li>
       <li class="icon-pro">Manipulating does not change file size.</li>
       <li class="icon-con">Not good for detailed images, or beyond 2D needs.</li>
-      <li class="icon-con">Requires an understanding on how to properly use and implement the markup language.</li>
+      <li class="icon-con">Requires an understanding of properly using and implementing the markup language.</li>
     </ul>
   </div>
 </div>
