@@ -11,13 +11,13 @@ tags: github, help, issues
 
 The absolute best way to ask for help in this course is to utilize the <a href="{{ site.git_address }}-resources/issues/">Issues board</a> feature. This is ideal because:
 
-1. Everyone has access to your question, and can help respond.
+1. Everyone has access to your question and can help respond.
 2. It is easier for your instructor to reply to Issues than to e-mails.
 3. If you push changes to GitHub, your instructor has access to your code and can provide _specific_ solutions, when/where/how directly into your site code.
 
 
 ## Contributing
-As the semester goes on you will be expected to open issues when you are having problems.
+As the semester progresses, you should open issues whenever you encounter problems.
 
 
 <iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=14" width="473" height="509" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
