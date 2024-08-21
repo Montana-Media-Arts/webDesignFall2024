@@ -6,7 +6,7 @@ categories: development
 tags: github, guide, repository
 ---
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time:</span> This page contains embedded interactive content. It may take 3-10 seconds to load completely.
 
 We don't even need additional programs to begin using a VCS like <a href="https://github.com/" target="_blank">GitHub.com</a>. We can begin creating and tracking files directly within the browser, as long as we create a new repository.
 
