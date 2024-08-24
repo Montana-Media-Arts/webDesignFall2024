@@ -22,7 +22,7 @@ You will come across _many_ types of **media** files on websites. Below are just
   </div>
   <div class="col-lg-10">
     <h3>MPEG-1 Audio Layer 3 (<b>MP3</b>)</h3>
-    <p>MP3 technology has been around for decades and revolutionized how music was stored and shared during the 1990's. MP3s offer an accessible ratio of playback quality to file size, but it is still subject to patents, meaning users must have MP3-ready software in order to play the file.</p>
+    <p>MP3 technology has been around for decades and revolutionized how music was stored and shared during the 1990's. MP3s offer an accessible ratio of playback quality to file size, but it is still subject to patents, meaning users must have MP3-ready software to play the file.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Small file size.</li>
