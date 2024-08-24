@@ -11,7 +11,7 @@ tags: design, file, page
 
 Web designers create sites using all types of files, including `.html`, `.css`, `.php`, `.aspx`, and more. How one creates and saves files affects their processing; a `.css` file does not display the same as an `.html` web page.
 
-Web sites require `.html` (or other web) ** Pages** because they contain the site's visible content. Furthermore, pages typically access other files (such as images and other media) using hyperlinks, embeds, and more, which we will cover in greater detail.
+Websites require `.html` (or other web) ** Pages** because they contain the site's visible content. Furthermore, pages typically access other files (such as images and other media) using hyperlinks, embeds, and more, which we will cover in greater detail.
 
 
 <div class="divider-pg"></div>
