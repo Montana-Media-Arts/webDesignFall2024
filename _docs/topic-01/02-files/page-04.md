@@ -9,7 +9,7 @@ tags: design, file, script
 <div class="divider-heading"></div>
 
 
-**Scripts** add functionality to websites by running on the client (your browser) or the server (think Amazon's computer).  Scripts are what makes sites interesting and dynamic.
+**Scripts** add website functionality by running on the client (your browser) or the server (think Amazon's computer).  Scripts are what makes sites interesting and dynamic.
 
 
 <div class="divider-pg"></div>
@@ -22,7 +22,7 @@ tags: design, file, script
   </div>
   <div class="col-lg-10">
     <h3>JavaScript (<b>JS</b>)</h3>
-    <p>JavaScript is the third piece of the puzzle, along with HTML and CSS. These three languages provide structured, styled, and interactive sites.</p>
+    <p>JavaScript, along with HTML and CSS, is the third piece of the puzzle. These three languages provide structured, styled, and interactive sites.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Easy-to-learn, free.</li>
