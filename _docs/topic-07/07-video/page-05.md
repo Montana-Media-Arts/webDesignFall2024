@@ -51,5 +51,5 @@ The **poster attribute** (`poster="#"`) should always be supplied with the `<vid
 <div class="divider-pg"></div>
 
 
-<span class="label label-info">Note</span> The image should be the same width/height ratio as the video element.
+<span class="label label-info">Note:</span> The image should be the same width/height ratio as the video element.
 ![Image of matching video and video poster sizes](../img/video-poster-sizing.png)
