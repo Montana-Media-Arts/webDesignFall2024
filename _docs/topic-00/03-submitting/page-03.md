@@ -24,3 +24,5 @@ As the semester progresses, you should open issues whenever you encounter proble
 <a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=14" class="btn btn-default btn-xs" target="_blank">View Larger</a>
 <!--<iframe src="https://h5p.org/h5p/embed/416838" width="1090" height="794" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <a href="https://h5p.org/node/416838" class="btn btn-default btn-xs" target="_blank">View Larger</a>-->
+
+Note: The "The Impressive Internet" issue referenced in the example discussion board is not part of our class this semester. Instead, our issues are organized by week, and you can post your questions or replies directly under the corresponding week's issue.
