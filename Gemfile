@@ -6,7 +6,7 @@ ruby "2.6.0"
 gem "jekyll", "3.8.4"
 
 # To use GitHub Pages
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
