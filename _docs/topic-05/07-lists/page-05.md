@@ -8,9 +8,9 @@ tags: list, nested, ordered, unordered
 
 <div class="divider-heading"></div>
 
-You can combine list types and use multiple **nested list** elements to create hierarchically-related lists. This nesting is particularly useful for outlines or multi-part instructions, as examples.
+You can combine list types and use multiple **nested list** elements to create hierarchically related lists. This nesting is particularly useful for outlines or multi-part instructions, as examples.
 
-<span class="label label-info">Note</span> Notice how the nested list is contained _within_ the parent "list-item" element.
+<span class="label label-info"></span> Notice how the nested list is contained _within_ the parent "list-item" element.
 
 ```html
 <ol id="ordered-list">
