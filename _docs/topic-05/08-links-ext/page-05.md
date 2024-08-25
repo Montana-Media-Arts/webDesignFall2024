@@ -27,4 +27,4 @@ So, to create a hyperlink that e-mails me:
 </div>
 
 
-<span class="label label-info">Note</span> Clicking on such a link in a webpage will cause the webpage to try and open the user's default email application. For that reason, it is also good practice to write the full email address out. That way, a user can easily copy the browser's address into the email client of their choice.
+<span class="label label-info"></span> Clicking on such a link in a webpage will cause the webpage to try and open the user's default email application. For that reason, it is also good practice to write the full email address out. That way, a user can easily copy the browser's address into the email client of their choice.
