@@ -67,4 +67,4 @@ This tells the browser whether or not to loop the audio.
 ### autoplay
 When used, this attribute specifies that the file should play automatically.
 
-<span class="label label-info">Note</span> Remember, this is considered poor-practice, and in most cases, it is better to let the user choose whether to start the audio or not.
+<span class="label label-info"></span> Remember, this is considered poor-practice, and in most cases, it is better to let the user choose whether to start the audio or not.
