@@ -19,7 +19,7 @@ The absolute best way to ask for help in this course is to utilize the <a href="
 ## Contributing
 As the semester progresses, you should open issues whenever you encounter problems.
 
-Note: The "The Impressive Internet" issue referenced in the example below is not part of our class this semester. Instead, our issues are organized by week, and you can post your questions or replies directly under the corresponding week's issue.
+Note: The "The Impressive Internet" issue referenced in the example below is not part of our class this semester. Instead, our issues are organized by week, and you can post your questions or replies directly under the corresponding week's issue. There's no need to comment on the example issue below.
 
 <iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=14" width="473" height="509" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 <a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=14" class="btn btn-default btn-xs" target="_blank">View Larger</a>
