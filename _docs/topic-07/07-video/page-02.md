@@ -16,7 +16,7 @@ The 5 attributes the video element should include are:
 4. Width and height values.
 5. Other attributes which define how users can interact with the media.
 
-<span class="label label-info">Note</span> As there are two ways to approach this, the following pages with showcase both:
+<span class="label label-info">Note:</span> As there are two ways to approach this, the following pages with showcase both:
 
 ## Single-Source
 Use this set-up if you only have _one version_ of the video file, like an MP4.
