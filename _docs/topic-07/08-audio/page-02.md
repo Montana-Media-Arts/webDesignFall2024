@@ -14,7 +14,7 @@ The 3 attributes the audio element should include are:
 2. The source attribute.
 3. Other attributes which define how users can interact with the media.
 
-<span class="label label-info">Note</span> As there are two ways to approach this, the following pages with showcase both:
+<span class="label label-info"></span> As there are two ways to approach this, the following pages with showcase both:
 
 ## Single-Source
 Use this set-up if you only have _one version_ of the audio file, like an MP3.
