@@ -20,7 +20,7 @@ We use the `<source>` element inside the multi-source `<video>` element to speci
 ## “Not Supported!”
 You should include a paragraph element “fallback” that will be displayed if the browser does not support the video element _or_ the format of video used. The browser will display whatever is between the opening and closing video tags.
 
-<span class="label label-info">Note</span> Any written content placed between the `<video>` will display should the video not load in the browser. You should always include some descriptive text of the video (just like with images), so users know what element they are missing out on.
+<span class="label label-info">Note:</span> Any written content placed between the `<video>` will display should the video not load in the browser. You should always include some descriptive text of the video (just like with images), so users know what element they are missing out on.
 
 <div class="code-heading">
   <span class="html">HTML</span>
