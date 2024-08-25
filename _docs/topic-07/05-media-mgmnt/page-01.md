@@ -40,4 +40,4 @@ The following demonstrates a possible directory structure:
 </pre>
 
 
-<span class="label label-info">Note</span> GitHub has a repo limit of **1 GB**, which is pretty small when thinking about website media. The next few pages list some options for finding smaller files to use.
+<span class="label label-info">Note:</span> GitHub has a repo limit of **1 GB**, which is pretty small when thinking about website media. The next few pages list some options for finding smaller files to use.
