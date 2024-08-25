@@ -23,7 +23,7 @@ permalink: /topic-07/media-src-img/
 
 You are probably familiar with getting images on the web, but perhaps not checking for usage rights. Most image repositories offer this filter. In Google Images, for example, select the “Tools” feature, and change the “Usage rights” filer from the dropdown.
 
-<span class="label label-info">Note</span> This is not a _guarantee_ of fair-use, but it does help narrow the search. You should always visit the image's parent site to confirm with its terms, copyright, or <a href="https://www.nasa.gov/multimedia/guidelines/index.html" target="_new">usage guidelines</a>.
+<span class="label label-info">Note:</span> This is not a _guarantee_ of fair-use, but it does help narrow the search. You should always visit the image's parent site to confirm with its terms, copyright, or <a href="https://www.nasa.gov/multimedia/guidelines/index.html" target="_new">usage guidelines</a>.
 
 
 <img src="../img/download-images.gif" alt="Finding fair use images on Google Images" title="Filter by Usage Rights" width="600" height="auto" />
