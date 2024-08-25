@@ -42,7 +42,7 @@ In HTML, the following style guide and naming conventions should be used for ids
 - _ID Naming_ - Use meaningful id names that reflect the purpose of the element in question, like "contact" rather than "paragraph4".
 - _Acceptable Characters_ - Technically, in HTML5, id names must contain at least one character and no spaces. Which leaves all [UTF-8](https://www.w3schools.com/charsets/ref_html_utf8.asp) characters as options. (i.e. `a-z`, `A-Z`, `0-9`, "`_`", "`-`", "`:;,?!@#$%^&*+`", etc.).
 
-However, due to issues that can arise in element selection with CSS and JavaScript, you should follow a more restrictive naming conventions. These conventions are also intended to lend consistency to code between pages and developers, as well as increase readability.
+However, due to issues that can arise in element selection with CSS and JavaScript, you should follow more restrictive naming conventions. These conventions are also intended to lend consistency to code between pages and developers, as well as increase readability.
 
 1. Use lowercase letters or number (i.e. `a-z` and `0-9`).
 2. Start an id name with a lowercase letter.
@@ -64,4 +64,4 @@ However, due to issues that can arise in element selection with CSS and JavaScri
 <div id='Image_Gallery-1!'>
 ```
 
-<span class="label label-info">Note</span> You should use id names that are as short as possible, but as long as necessary. The goal is to clearly convey what the element is without being unnecessarily verbose.
+<span class="label label-info">Note:</span> You should use id names that are as short as possible, but as long as necessary. The goal is to clearly convey what the element is without being unnecessarily verbose.
