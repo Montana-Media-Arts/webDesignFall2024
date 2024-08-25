@@ -21,7 +21,7 @@ In addition to the id attribute, the **class attribute** is another attribute th
 ## Naming Practices for Classes
 The class attribute follows the same technical naming conventions as the id attribute. As with the id attribute, the class attribute value should be as descriptive as possible about the function or element types groups, while prioritizing both brevity and readability.
 
-<span class="label label-info">Note</span> Unlike the id attribute which should contain a single unique id value, elements may have <u>more than one class</u> assignment. In this case, spaces separate the class names.
+<span class="label label-info">Note:</span> Unlike the id attribute which should contain a single unique id value, elements may have <u>more than one class</u> assignment. In this case, spaces separate the class names.
 
 
 <div class="code-heading">
