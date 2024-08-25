@@ -67,4 +67,4 @@ The `loop` attribute, when present, tells the browser to loop the file.
 ### autoplay
 Like the `controls` attribute, the `autoplay` attribute is included as a single word or not at all. When present, this attribute tells the browser to start playing the file on load.
 
-<span class="label label-info">Note</span> This is considered poor-practice, and in most cases, it is better to let the user choose whether to start the video or not.
+<span class="label label-info">Note:</span> This is considered poor-practice, and in most cases, it is better to let the user choose whether to start the video or not.
