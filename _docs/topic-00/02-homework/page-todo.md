@@ -12,7 +12,7 @@ This area will contain related content you should explore. Most are required, bu
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="{{site.data.moodle.syllabus}}" target="_blank" class="list-group-item">
+        <a href="https://canvas.umt.edu/courses/8588/assignments/syllabus" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-file-alt" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Course Syllabus</h4>
           <div class="divider-hw"></div>
