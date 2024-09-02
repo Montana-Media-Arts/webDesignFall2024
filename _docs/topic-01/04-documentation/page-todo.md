@@ -13,7 +13,7 @@ There are many types of text editors, each optimized for specific kinds of tasks
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="[https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)" target="_blank" class="list-group-item">
+        <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank" class="list-group-item">
           <i class="icon-hw fab fa-markdown" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Using Markdown on GitHub</h4>
           <div class="divider-hw"></div>
