@@ -47,7 +47,7 @@ Services such as <a href="https://github.com/" target="_blank">GitHub</a> and <a
 
 
 <h2 id="readme-ideas">Assignment Reports</h2>
-Every repository you make for this class will have a `README.md` file. We initiated our **MART341-WebDesign/** root repository with a `README.md` file, but all homework repositories will need to have `README.md` files created for them.
+Every repository you create for this class, including your weekly assignment repositories, must include a README.md file. **Please be sure to add a README.md to each repository.**
 
 <div class="code-heading">
   <span>Directory Tree</span>
