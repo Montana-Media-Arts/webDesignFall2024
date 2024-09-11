@@ -16,7 +16,7 @@ Text editors are specialty applications which can ease the type of text and codi
 There are many types of text editors, each optimized for specific types of tasks.
 
 
-For this class, we need a text editor that is optimized for web development and code. You are welcome to use whatever text editor you like for this course, however, we will be using Visual Studio Code <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> for our videos and tutorials, and it may behoove you to use it as well (especially beginners).
+For this class, we need a text editor that is optimized for web development and code. You are welcome to use whatever text editor you like for this course, however, we will be using Visual Studio Code <a href="https://code.visualstudio.com/download?" target="_blank">Visual Studio Code</a> for our videos and tutorials, and it may behoove you to use it as well (especially beginners).
 
 
 <div class="divider-pg"></div>
