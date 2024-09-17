@@ -33,7 +33,7 @@ To serve our repository, we need to tell GitHub that this is a "GitHub pages pro
   <div class="col-lg-9">
     <p>It is best that you have completed your <code>index.html</code> first and <a href="../../topic-02/git-add-directory">uploaded it to GitHub</a> before attempting this tutorial.</p>
     <p>To access your specific assignment page on GitHub Pages, use the full URL path to your index.html file, including all folders, to ensure it points directly to the correct location.</p>
-<p><b>Example:</b>https://your-name.github.io/MART341-WebDesign/WebDesignHomework/Assignment4/</p>
+<p><b>Example:</b> https://your-name.github.io/MART341-WebDesign/WebDesignHomework/Assignment4/</p>
 <P>Make sure to use <em>your</em> exact folder names in the URL path, as it may differ if you used different names for your folders.</P>
   </div>
 </div>
