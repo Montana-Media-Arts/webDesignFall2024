@@ -10,7 +10,6 @@ tags: elements, head, style
 
 The _style_ element establishes simple style definitions in a single HTML page without linking to external documents. The style tag is another element we will not rely on heavily for the first few weeks but will use it extensively after looking at CSS.
 
-
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
