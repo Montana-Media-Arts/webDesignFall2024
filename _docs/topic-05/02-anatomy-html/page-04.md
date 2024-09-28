@@ -19,7 +19,7 @@ This is one way we could improve our standard document structure:
 <html lang="en">
   <head>
     <title>My Way-Cool Awesome Site</title>
-    <!-- Meta data and information about your site, not visible to visitors. -->
+    <!-- Metadata and information about your site, not visible to visitors. -->
   </head>
 
   <body>
