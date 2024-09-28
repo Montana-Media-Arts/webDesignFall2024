@@ -26,7 +26,7 @@ This basically looks like `<tag3><tag2><tag1>...</tag1></tag2></tag3>`
     <!-- From a recently released deleted scene: -->
     <p>Spengler: "There's something very important I forgot to tell you."</p>
     <p>Venkman:  "What?"</p>
-    <p>Spengler: "Dont cross the streams."</p>
+    <p>Spengler: "Don't cross the streams."</p>
     <p>Venkman:  "Why?"</p>
     <p>Spengler: "It would be bad."</p>
     <p>Spengler: "Almost as bad as <u><i>improperly nesting HTML tags.</u>"</p></i>
