@@ -24,4 +24,4 @@ In older versions of HTML and XHTML, the DOCTYPE included additional information
 ```
 
 
-They're not very human-readable, but, in their way, they are merely saying “this document is written in HTML 4.01,” or “this document is written in XHTML 1.0.”
+While not easily readable for humans, they simply indicate, “This document is written in HTML 4.01” or “This document is written in XHTML 1.0.”
