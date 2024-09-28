@@ -12,7 +12,7 @@ The **abbreviation** element (`<abbr>...</abbr>`) defines an abbreviation or an 
 
 Marking up abbreviations can give useful information to browsers, translation systems, and search-engines.
 
-<span class="label label-info">Note</span> Previous to HTML5, there was an `<acronym>` tag that is no longer supported. Is it best practice to use `<abbr>` for both abbreviations and acronyms in HTML5.
+<span class="label label-info">Note</span> Previous to HTML5, there was an `<acronym>` tag that is no longer supported. It is best practice to use `<abbr>` for both abbreviations and acronyms in HTML5.
 
 
 <div class="code-heading">
