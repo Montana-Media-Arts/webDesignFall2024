@@ -10,7 +10,7 @@ tags: elements, emphasis, italics
 
 Just like bold, another widespread semantic alteration is the use of _italicized text_. Text can be marked up as italicized by using the **italic element**, `<i>...</i>`.
 
-As with bold/strong, the italicized text does not necessarily imply a semantically different meaning. Instead, you are encouraged to use the _"emphasis"_ element instead ( `<em>...</em>` ). The **emphasis** element indicates subtle changes in the meaning of a sentence. By default, the browser will show these elements in italic.
+As with bold/strong, the italicized text does not necessarily imply a semantically different meaning. Instead, you are encouraged to use the _"emphasis"_ element instead ( `<em>...</em>` ). The **emphasis** element indicates subtle changes in the meaning of a sentence. By default, the browser will show these elements in italics.
 
 
 <div class="code-heading">
