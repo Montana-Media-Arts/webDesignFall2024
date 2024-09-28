@@ -21,7 +21,7 @@ tags: best-practice, code
     <li>Indented Elements</li>
   </ol>
 
-  <p>There are many other unspoken rules you can Google, but those three are major pet peeves when done poorly - <i>and you're likely to be called out on them.</i></p>
+  <p>There are many other unspoken rules you can Google, but those three are common pet peeves when done poorly - <i>and you're likely to be called out on them.</i></p>
 
 
   <audio id="mySound" loop>
