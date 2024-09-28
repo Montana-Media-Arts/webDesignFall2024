@@ -10,7 +10,7 @@ tags: abbreviation, acronym, elements
 
 The **abbreviation** element (`<abbr>...</abbr>`) defines an abbreviation or an acronym, like "Mr.", "Dec.", "ASAP", "ATM".
 
-Marking up abbreviations can give useful information to browsers, translation systems, and search-engines.
+Marking up abbreviations can give useful information to browsers, translation systems, and search engines.
 
 <span class="label label-info">Note</span> Previous to HTML5, there was an `<acronym>` tag that is no longer supported. It is best practice to use `<abbr>` for both abbreviations and acronyms in HTML5.
 
