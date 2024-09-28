@@ -10,7 +10,7 @@ tags: markup, semantic
 
 <div class="container-row">
   <img src="../img/clue-box.png" alt="image of Cluedo boardgame" style="float: right; width: 200px; margin: -20px 5px 5px 5px;" />
-  <p><b>Semantic markup</b> us used to reinforce the <a href="https://en.wikipedia.org/wiki/Semantics" taget="_blank">semantics</a> - or meaning - of the information in a document. Semantic markup might be used to place <em>emphasis</em> on a word or phrase, or identify a word as being <strong>strong</strong>. They can also provide <cite>citations</cite> or <q>quotations</q>, link to <dfn title="a statement of the exact meaning of a word">definitions</dfn>, or distinguish <del>editorial changes</del>.</p>
+  <p><b>Semantic markup</b> is used to reinforce the <a href="https://en.wikipedia.org/wiki/Semantics" taget="_blank">semantics</a> - or meaning - of the information in a document. Semantic markup might be used to place <em>emphasis</em> on a word or phrase, or identify a word as being <strong>strong</strong>. They can also provide <cite>citations</cite> or <q>quotations</q>, link to <dfn title="a statement of the exact meaning of a word">definitions</dfn>, or distinguish <del>editorial changes</del>.</p>
 </div>
 
 <p>For example:</p>
