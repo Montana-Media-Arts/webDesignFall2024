@@ -21,7 +21,7 @@ Indentation doesn't affect how the page renders but makes a **huge** difference 
 <html>
   <body>
 
-    <!-- This is a mess, and considered in poor taste: -->
+    <!-- This is a mess and considered in poor taste: -->
     <menu id="hot-mess">
             <ul>
     <li><a href="#">Home</a>
