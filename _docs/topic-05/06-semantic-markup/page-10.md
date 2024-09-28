@@ -8,7 +8,7 @@ tags: elements, strikethrough
 
 <div class="divider-heading"></div>
 
-The **strikethrough** tag (`<s>`) specifies text that is no longer correct, accurate or relevant. <s>Before HTML5, this was done with <code>&lt;strike&gt;</code>.</s>
+The **strikethrough** tag (`<s>`) specifies text that is no longer correct, accurate, or relevant. <s>Before HTML5, this was done with <code>&lt;strike&gt;</code>.</s>
 
 
 <div class="code-heading">
