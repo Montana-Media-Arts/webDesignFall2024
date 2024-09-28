@@ -22,3 +22,5 @@ Skim W3School's HTML5 Style Guide for proof that you can have "very bad" code th
     </div>
   </div>
 </div>
+
+Once you've finished reviewing the content, please return to Canvas to review this week's assignment overview and instructions—you're doing great, keep it up!
