@@ -19,7 +19,7 @@ The <b>body element</b> is where all of the “meat & potatoes” (if you will) 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Meta data and information about your site, not visible to visitors. -->
+    <!-- Metadata and information about your site, not visible to visitors. -->
     <title>My Way-Cool Awesome Site!</title>
   </head>
 
