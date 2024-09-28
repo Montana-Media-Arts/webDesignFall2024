@@ -12,7 +12,7 @@ One of the primary reasons for the Internet was to easily reference research whe
 
 
 ## Hyperlink
-In computing, a **hyperlink**, or merely a link, refers to data that the reader can directly follow either by clicking, tapping, or hovering. A hyperlink points to a whole document or a specific element within a document.
+In computing, a **hyperlink**, or merely a link, refers to data that the reader can directly follow by clicking, tapping, or hovering. A hyperlink points to a whole document or a specific element within a document.
 
 
 ## Hypertext
