@@ -12,7 +12,7 @@ tags: definition, list
 
 The term being defined is encapsulated in "definition term" tags (`<dt>...</dt>`).
 
-The terms definition is then encapsulated in the "definition" tags (`<dd>...</dd>`).
+The term's definition is then encapsulated in the "definition" tags (`<dd>...</dd>`).
 
 <span class="label label-info">Note</span> Sometimes, you might see a list where there are two terms used for the same definition or two different definitions for the same term. The usage of terms is acceptable.
 
