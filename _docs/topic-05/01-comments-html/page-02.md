@@ -8,7 +8,7 @@ tags: comment
 
 <div class="divider-heading"></div>
 
-Comments are designated somewhat different in every language. In HTML, however, they are defined using a **tag**. The browser will ignore anything placed within this tag.
+Comments are designated somewhat differently in every language. In HTML, however, they are defined using a **tag**. The browser will ignore anything placed within this tag.
 
 <span class="label label-info">Note</span> Comments are not hidden from _other people_. Comments, if included in your deployment code, will be available for the whole world to see.
 
