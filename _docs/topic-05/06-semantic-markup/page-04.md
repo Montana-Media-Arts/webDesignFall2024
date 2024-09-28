@@ -19,7 +19,7 @@ The **blockquote** tag specifies a section quoted from another source. Browsers 
   <span class="html">HTML</span>
 </div>
 ```html
-<q>This is an quote element, good for keeping quotes inline with other paragraph text.</q>
+<q>This is a quote element, good for keeping quotes inline with other paragraph text.</q>
 
 <blockquote>
   Sometimes a quote spans multiple sentences or lines.<br/>
