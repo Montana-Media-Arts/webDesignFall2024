@@ -20,7 +20,7 @@ The <code>&lt;head&gt;</code> element is a container for processing information 
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- Meta data and information about your site, not visible to visitors. -->
+    <!-- Metadata and information about your site, not visible to visitors. -->
   </head>
 
 </html>
