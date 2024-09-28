@@ -14,7 +14,7 @@ categories: uncategorized
          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html#:~:text=The%20HTML%20element%20represents,be%20descendants%20of%20this%20element.&text=None.&text=One%20element%2C%20followed,by%20one%20element." target="_blank" class="list-group-item">
            <i class="icon-hw fas fa-book" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Root Element</h4>
-          <p class="list-group-item-text">Read about the important of the root elements.</p>
+          <p class="list-group-item-text">Read about the importance of the root elements.</p>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute reading</p>
           </a>
