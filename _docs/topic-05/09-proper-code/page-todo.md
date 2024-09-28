@@ -6,7 +6,7 @@ permalink: /topic-05/todo-writing-code/
 categories: uncategorized
 ---
 
-Skim W3School's HTML5 Style Guide for proof that you can have "very bad" code that actually works, but is considered in poor style and just plain _rude._
+Skim W3School's HTML5 Style Guide for proof that you can have "very bad" code that actually works but is considered in poor style and just plain _rude._
 
 <div class="row text-center">
   <div class="col-lg-4">
@@ -23,4 +23,4 @@ Skim W3School's HTML5 Style Guide for proof that you can have "very bad" code th
   </div>
 </div>
 
-Once you've finished reviewing the content, please return to Canvas to review this week's assignment overview and instructions—you're doing great, keep it up!
+Once you've finished reviewing the content, please return to Canvas to review this week's assignment overview and instructions. You're doing great; keep it up!
