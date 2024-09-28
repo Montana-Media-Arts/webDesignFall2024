@@ -16,7 +16,7 @@ The meta element is an _empty element_, like the upcoming link element. The most
 1. The value of the name attribute is the property you are setting.
 2. The value of the content attribute is the value that you want to give to this property.
 
-For example, on the second meta line below, the name attribute indicates an intention to specify a page's description. The content attribute is where this description is defined.
+For example, the name attribute on the second meta line below indicates an intention to specify a page's description, which is defined in the content attribute.
 The value of the name attribute can be anything you want it to be.
 
 We will look at the Meta element more later. For the time being, however, you should include the following meta elements in your pages:
