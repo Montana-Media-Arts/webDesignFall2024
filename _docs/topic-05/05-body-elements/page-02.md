@@ -15,7 +15,7 @@ tags: markup, structural
 - Breaks
 - Lists
 
-These elements will help guide a user visually and provide information about the type of content through a document. These elements are also used by the browser and the DOM to understand the content of the document. A browser uses this structural markup to assist [screen readers](http://www.afb.org/prodBrowseCatResults.aspx?CatID=49) and other accessibility-based software.
+These elements will help guide a user visually and provide information about the type of content in a document. The browser and the DOM also use these elements to understand the content of the document. A browser uses this structural markup to assist [screen readers](http://www.afb.org/prodBrowseCatResults.aspx?CatID=49) and other accessibility-based software.
 
 <p><span class="remember-text">Remember?</span><br/>
 The most basic of structured documents should include tags identifying headings and paragraphs. These two markup elements are used in almost every document editing application and are crucial in authoring web content.</p>
