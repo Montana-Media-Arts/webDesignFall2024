@@ -12,7 +12,7 @@ The **viewport** is the user's visible area of a web page. It varies with the de
 
 <img src="../img/meta-viewport.png" alt="two screens, one with viewport set" style="width: 250px;" />
 
-The rise of mobile devices changed how we view and build for the web. HTML5 introduced a method to let web designers take control over the viewport through the meta tag.
+The rise of mobile devices changed how we view and build for the web. HTML5 introduced a method to let web designers take control of the viewport through the meta tag.
 
 You should include the following `<meta>` viewport element in all your web pages:
 
