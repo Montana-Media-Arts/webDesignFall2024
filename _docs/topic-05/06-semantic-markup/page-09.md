@@ -10,7 +10,7 @@ tags: delete, elements, insert
 
 The **delete** tag (`<del>`) defines the text deleted from a document, and the **insert** tag (`<ins>`) defines the text inserted.
 
-Use `<del>` and `<ins>` to markup updates and modifications in a document. Browsers will normally strike a line through deleted text and underline inserted text.
+Use `<del>` and `<ins>` to markup modifications and updates in a document. Browsers will normally strike a line through deleted text and underline inserted text.
 
 
 <div class="code-heading">
