@@ -11,7 +11,7 @@ tags: elements, head, title
 The **title** tag defines the title of a document. This action:
 
 - describes a title in the browser toolbar.
-- provides a title for the page when it added to favorites.
+- provides a title for the page when it is added to favorites.
 - displays a title for the page in search engine results.
 
 You cannot have more than one title element. However, you _must_ have the title element for the document to validate as HTML.
