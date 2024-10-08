@@ -6,7 +6,7 @@ permalink: /topic-06/table-padding/
 
 <div class="divider-heading"></div>
 
-You may wish to "cushion" your cell contents from their borders. We do this using the `padding=""` property. Generally, we measure this **padding** in pixels, and again, this is something we'll eventually do with CSS.
+You may wish to "cushion" your cell contents from their borders. We do this using the `padding=""` property. Generally, we measure this **padding** in pixels, and again, this is something we'll explore in greater detail with external CSS stylesheets.
 
 <div class="code-heading">
   <span class="html">HTML</span>
