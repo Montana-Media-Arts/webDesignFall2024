@@ -10,7 +10,7 @@ The **select** element allows a user to select one option from a dropdown list.
 
 Unlike the other form elements, the `select` element has its own name and uses opening and closing tags: `<select>...</select>`.
 
-Dropdown lists are very similar to radio buttons, however these are more appropriate when a large amount of selections is possible (i.e. "select a state").
+Dropdown lists are very similar to radio buttons; however, they are more appropriate when a large number of selections is possible (e.g., "select a state").
 
 
 
@@ -21,12 +21,12 @@ The **option** element (`<option>...</option>`) is used within select elements t
 
 ### value (Required)
 
-As with other form types, the `value=""` attribute should be unique for each option element. This will be sent back with the select elements name attribute.
+As with other form types, the `value=""` attribute should be unique for each option element. This will be sent back with the select element's name attribute.
 
 
 ### selected (Optional)
 
-The `selected` attribute can be used to pre-select an option. If this attribute is omitted then the first option will be pre-selected.
+The `selected` attribute can be used to pre-select an option. If this attribute is omitted, then the first option will be pre-selected.
 
 
 <div class="code-heading">
