@@ -8,12 +8,12 @@ permalink: /topic-06/select-radio/
 
 **Radio Buttons** (`type="radio"`) allow users to select **one** item.
 
-Notice in the code example below, that this element, like the text box, will likely be placed in a `<p>...</p>`. This makes it easy to add information or "choice" text around the elements.
+Notice in the code example below that this element, like the text box, will likely be placed in a `<p>...</p>`. This makes it easy to add information or "choice" text around the elements.
 
 
 ### name (Required)
 
-Radio buttons must be grouped together. This tells the browser that only "one of the choices" of this group can be selected.  This is a user interface standard to which we should adhere. 
+Radio buttons must be grouped together. This tells the browser that only "one of the choices" of this group can be selected. This is a user interface standard to which we should adhere. 
 
 To group radio button elements together the developer provides the same `name=""` attribute value for each possible choice. As with all elements, this name attribute is sent along with the rest of the form data.
 
