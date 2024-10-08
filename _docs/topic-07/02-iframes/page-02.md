@@ -19,7 +19,7 @@ permalink: /topic-07/iframe-tags/
 </div>
 
 
-Iframes, like many of the HTML elements you will become familiar with, are multi-part elements containing a set of tags, sources, and attributes.
+Like many of the HTML elements you will become familiar with, iframes are multi-part elements containing a set of tags, sources, and attributes.
 
 <p><span class="remember-text">Remember?</span><br/>
 Tags <a href="../../topic-05/html-review" target="_blank">identify the element</a> and are <b>required</b>. Attributes <a href="../../topic-05/attributes" target="_blank">provide additional information</a> about that element, with some being <b>required</b> and some <i>optional</i>.</p>
