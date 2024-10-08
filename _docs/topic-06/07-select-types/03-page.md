@@ -21,7 +21,7 @@ Likewise, the `value=""` should be unique to each element.
 
 ### checked (Optional)
 
-As with radio buttons, you can use the `checked` attrubite to pre-select checkboxes.
+As with radio buttons, you can use the `checked` attribute to pre-select checkboxes.
 
 <div class="code-heading">
   <span class="html">HTML</span>
