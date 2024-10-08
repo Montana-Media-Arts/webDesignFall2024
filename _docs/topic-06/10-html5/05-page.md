@@ -8,7 +8,7 @@ permalink: /topic-06/html5-search/
 
 Another new element in HTML5 is the Search Box Element (`type="search"`).
 
-As with the other recent HTML5 elements we have just looked at, some will work in some browsers, and not others.
+As with the other recent HTML5 elements we have just examined, some will work in some browsers and not others.
 
 
 <div class="codepen-embed">
