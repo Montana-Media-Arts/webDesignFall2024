@@ -6,9 +6,9 @@ permalink: /topic-06/text-cols-rows/
 
 <div class="divider-heading"></div>
 
-In a textarea, one can specify the number of columns and rows, but using the following attributes `cols` and `rows`. These attributes change the size of the displayed element, as well as how text looks when typed.
+In a text area, one can specify the number of columns and rows using the attributes `cols` and `rows`. These attributes change the size of the displayed element and how the text looks when typed.
 
-- `cols` is the width of the textarea in character widths (i.e. this is the number of characters that will fit from left to right).
+- `cols` is the width of the textarea in character widths (i.e., this is the number of characters that will fit from left to right).
 - `rows` is the number of visible lines.
 
 
