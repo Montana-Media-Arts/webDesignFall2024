@@ -19,6 +19,6 @@ permalink: /topic-06/img-src/
 </div>
 
 
-The first attribute that we will need to consider is `src=""`. Within the double quotes you will need to include a **source** to the location of the desired image.
+The first attribute that we will need to consider is `src=""`. Within the double quotes, you will need to include a **source** to the location of the desired image.
 
-This will typically be a **relative URL** to a file stored on the same server as the web page, but can also be an **absolute URL** to an image anywhere on the Internet.
+This will typically be a **relative URL** to a file stored on the same server as the web page, but it can also be an **absolute URL** to an image anywhere on the Internet.
