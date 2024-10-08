@@ -19,6 +19,6 @@ permalink: /topic-06/img-title/
 </div>
 
 
-As with the alt text attribute, you should also get in the habit of always including a **title attribute**, which is `title=""`. Most browsers will display this text as a tooltip when a user hovers their mouse over am image with the included attribute.
+As with the alt text attribute, you should also get in the habit of always including a **title attribute**, which is `title=""`. Most browsers will display this text as a tooltip when a user hovers their mouse over an image with the included attribute.
 
-<span class="label label-danger">IMPORTANT:</span> The alt and/or title attributes are also be used by some browsers in the case where the image itself cannot load.
+<span class="label label-danger">IMPORTANT:</span> The alt and/or title attributes can also be used by some browsers in the case where the image itself cannot load.
