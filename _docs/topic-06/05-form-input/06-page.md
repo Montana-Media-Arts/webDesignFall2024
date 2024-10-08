@@ -8,7 +8,7 @@ permalink: /topic-06/input-element/
 
 ## Altogether
 
-An input element is a combination of type, name, and identification. The following code shows an "input" element, wrapped in a "form" element, along with the three _required_ attributes.
+An input element is a combination of type, name, and identification. The following code shows an "input" element wrapped in a "form" element, along with the three required attributes.
 
 
 <div class="code-heading">
