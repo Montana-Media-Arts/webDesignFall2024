@@ -44,3 +44,4 @@ categories: uncategorized
         </div>
     </div>
 </div>
+<p>Once you’ve finished reviewing the content, please return to Canvas to review this week’s assignment overview/instructions and the discussion. You’re doing a great job; keep going!</p>
