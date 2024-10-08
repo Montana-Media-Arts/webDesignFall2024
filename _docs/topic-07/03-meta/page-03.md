@@ -6,7 +6,7 @@ permalink: /topic-07/meta-desc/
 
 <div class="divider-heading"></div>
 
-The **description** name type provides a short description to search engines crawlers about the contents of your site.
+The **description** name type provides a short description of your site's contents to search engine crawlers.
 
 <div class="code-heading">
   <span class="html">HTML</span>
