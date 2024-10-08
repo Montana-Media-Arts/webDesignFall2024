@@ -41,8 +41,8 @@ permalink: /topic-06/table-headings/
 </div>
 
 
-You should use **table headings** or `<th>` elements to provide structure and style to head your columns and rows. This is incredibly helpful for people who use screen readers, and helps search engines to correctly index your page.
+You should use **table headings** or `<th>` elements to provide structure and style to head your columns and rows. This is incredibly helpful for people who use screen readers and helps search engines index your page correctly.
 
 We delineate columns and rows using the `scope=""` attribute; a column is headed using `<th scope="col">...</th>` and a row is headed using `<th scope="row">...</th>`
 
-<span class="label label-danger">IMPORTANT:</span> Empty cells are not forgotten cells -  they still need to be created using `<th>` or `<td>` elements. Not including these elements will cause your table to improperly render.
+<span class="label label-danger">IMPORTANT:</span> Empty cells are not forgotten cells -  they still need to be created using `<th>` or `<td>` elements. Not including these elements will cause your table to be rendered improperly.
