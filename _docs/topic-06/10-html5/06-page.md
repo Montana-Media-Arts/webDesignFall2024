@@ -6,9 +6,9 @@ permalink: /topic-06/html5-img/
 
 <div class="divider-heading"></div>
 
-HTML5 also introduced the “figure” (`<figure>`) and “figure caption” (`<figcaption>`) elements further assist with images. These can be used together to easily group figures or images with associated captions.
+HTML5 also introduced the “figure” (`<figure>`) and “figure caption” (`<figcaption>`) elements to further assist with images. These can be used together to group figures or images with associated captions easily.
 
-The **figure element** is the container which groups together one or more images with a caption. Within the figure element, one places an image and/or related elements, as well as your caption elements.
+The **figure element** is the container that groups together one or more images with a caption. Within the figure element, one places an image and/or related elements and your caption elements.
 
 
 <div class="codepen-embed">
