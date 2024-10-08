@@ -41,4 +41,4 @@ permalink: /topic-06/table-rows/
 </div>
 
 
-**Table rows** are created using the `<tr>...</tr>` element. Inside of a `<tr>` lives the individual cells (equal to the number of columns), each referenced using a set of `<td>` tags.
+**Table rows** are created using the `<tr>...</tr>` element. Inside each <tr> are individual cells, which represent the columns of the table. These cells are created using <td> tags.
