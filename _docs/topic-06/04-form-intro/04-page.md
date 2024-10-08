@@ -23,11 +23,11 @@ Forms can be sent using one of two methods; '`GET`' or '`POST`'.
 
 With the '`GET`' method, values are added to the end of the specified action URL.
 
-This method can be used in searches, or for _retrieving_ data from a server, but keep in mind, it is in clear text in the querystring and is NOT secure.
+This method can be used in searches or for retrieving data from a server, but keep in mind that it is in clear text in the query string and is NOT secure.
 
 With the '`POST`' method, values are sent in what are known as 'HTTP headers'. As a rule of thumb, use the '`POST`' method when;
 
-- users are uploading a file.
+- users are uploading a file
 - the data will be very long
 - the data is sensitive (ie. contains passwords)
-- The data is intended to alter or access a database on the server.
+- The data is intended to alter or access a database on the server
