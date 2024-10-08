@@ -8,7 +8,7 @@ permalink: /topic-06/table-element/
 
 ## Altogether
 
-A full table element is a combination of columns and rows (both delineated by headings), and cells:
+A full table element is a combination of columns and rows (both delineated by headings) and cells:
 
 
 <div class="codepen-embed">
