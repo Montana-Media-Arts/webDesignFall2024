@@ -22,4 +22,4 @@ A form is a combination of action, method, and identification:
 ```
 
 
-The `<form>` doesn't look like much now, and will really take shape with the addition of **input elements.**
+The `<form>` doesn't look like much now, but it will really take shape with the addition of **input elements.**
