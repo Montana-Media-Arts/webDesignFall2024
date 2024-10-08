@@ -8,9 +8,9 @@ permalink: /topic-06/table-borders/
 
 ## Borders
 
-By default, a table is rendered without borders. Using the code snippet below, the table outline, heading coloums and rows, and cells will all be given a **border**.
+By default, a table is rendered without borders. Using the code snippet below, the table outline, heading columns and rows, and cells will all be given a **border**.
 
-A `border=""` attribute is broken-up into 3 componets: width, style, and color. We will get more into borders with CSS, so for now, this is the basic border styling for tables.
+A `border=""` attribute has three components: width, style, and color. We will explore borders more with CSS, but for now, this is the basic border styling for tables.
 
 This style element effectively states _"a border 1 pixel wide, drawn as a solid line, in black."_
 
