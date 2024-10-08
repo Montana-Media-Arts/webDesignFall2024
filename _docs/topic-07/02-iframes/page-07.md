@@ -26,10 +26,10 @@ In addition to displaying other webpages in the main webpage, the iframe element
 
 
 ## How-To:
-From the Google maps page, after completing a search, you can click the “share” button. This opens a separate pop-up, where you should select the “Embed a map ”option. You can then tweak the display options, and copy Google's iframe code to include on your site.
+From the Google Maps page, you can click the “share” button after completing a search. This opens a separate pop-up, where you should select the “Embed a map” option. You can then tweak the display options and copy Google's iframe code to include on your site.
 
 
-<img src="../img/embed-google-maps.gif" title="Google Map embed" alt="Image showing the “embed map” option from google maps" width="600" />
+<img src="../img/embed-google-maps.gif" title="Google Map embed" alt="Image showing the “embed map” option from Google Maps" width="600" />
 
 
-Including this code on your site will create an embedded Google Map that your visiting users may interact with. Typically, this is useful in showing where a business location is.
+Including this code on your site will create an embedded Google Map that your visitors may interact with. This is typically useful for showing a business's location.
