@@ -6,9 +6,9 @@ permalink: /topic-06/text-placeholder/
 
 <div class="divider-heading"></div>
 
-The `placeholder` attribute places grey text in a text field. This text disappears when the user focuses on the element when clicking in it.
+The `placeholder` attribute places grey text in a text field. This text disappears when the user focuses on the element when clicking on it.
 
-This text offer hints about the _type of text that is expected_ or to _encourage the user to type in the field_.
+This text offers hints about the _type of text that is expected_ or _encourages the user to type in the field_.
 
 
 <div class="code-heading">
