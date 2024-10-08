@@ -21,7 +21,7 @@ permalink: /topic-06/img-alt/
 
 Proper style and accessibility standards dictate that you should always include the **alternative text attribute**. The key for this is simply `alt=""`. The value in the double quotes should describe the image. This description is used by screen readers for those who are visually impaired.
 
-Therefore it is critical that you provide a detailed description, especially in the case where the image is necessary to understand the content of the page.
+Therefore, it is critical that you provide a detailed description, especially when the image is necessary to understand the page's content.
 
 - Poor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt="Me getting help."`
 - Better: &nbsp;`alt="Mary receiving help from an instructor while at a computer."`
