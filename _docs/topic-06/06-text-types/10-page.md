@@ -56,4 +56,4 @@ Refresh the page. See how the cursor is blinking inside the password input box? 
 </div>
 
 
-<span class="label label-info">NOTE:</span> Unlike most attributes, there is no "value" to assign. Therefore the attribute it passed in alone.
+<span class="label label-info">NOTE:</span> Unlike most attributes, there is no "value" to assign. Therefore, the attribute is passed on alone.
