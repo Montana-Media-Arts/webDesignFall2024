@@ -6,7 +6,7 @@ permalink: /topic-07/iframe-element-media/
 
 <div class="divider-heading"></div>
 
-The other common use of the embeddable iframe element is to include media players in your site, such as those from YouTube, Vimeo, SoundCloud, or Bandcamp.
+Another common use of the embeddable iframe element is to include media players on your site, such as those from YouTube, Vimeo, SoundCloud, or Bandcamp.
 
 You will learn how to do this later in the Topic.
 
