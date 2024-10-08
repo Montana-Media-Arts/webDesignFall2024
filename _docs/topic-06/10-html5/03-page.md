@@ -6,9 +6,9 @@ permalink: /topic-06/html5-date/
 
 <div class="divider-heading"></div>
 
-HTML5 includes a new data entry fields for "input elements". One such of these is the `type="date"`.
+HTML5 includes new data entry fields for "input elements." One such field is `type="date"`.
 
-In browsers that do not support this type, a simple text box will be used. In those that do support it, the appearance will be dictated by the browser.
+A simple text box will be used in browsers that do not support this type. In those that do support it, the browser will dictate the appearance.
 
 
 <div class="codepen-embed">
