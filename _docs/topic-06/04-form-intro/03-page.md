@@ -19,6 +19,6 @@ permalink: /topic-06/form-action/
 </div>
 
 
-The `action` attribute is a link to a server-side script (i.e. a file on another computer, not the users computer). Typically this file is code file (php, asp.net, python, jsp, etc) on a server that will do 'something' with the user data before returning information back to the browser.  **Note:** we talk about this in MART 461 Web Server Technologies
+The `action` attribute is a link to a server-side script (i.e., a file on another computer, not the user's computer). Typically, this file is a code file (php, asp.net, python, jsp, etc) on a server that will do 'something' with the user data before returning information back to the browser.  **Note:** we talk about this in MART 461 Web Server Technologies
 
-<span class="label label-info">NOTE:</span> The value of the action attribute will always be an URL.
+<span class="label label-info">NOTE:</span> The value of the action attribute will always be a URL.
