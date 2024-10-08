@@ -6,7 +6,7 @@ permalink: /topic-06/text-size/
 
 <div class="divider-heading"></div>
 
-You can use the `size` attribute to set the display (in character widths) for the text input box. For example, the "birth year" input allow only four characters. If the size attribute is set to 4 as well, the textbox visually changes to allow only 4 characters.
+You can use the `size` attribute to set the display (in character widths) for the text input box. For example, the "birth year" input allows only four characters. If the size attribute is set to 4 as well, the textbox visually changes to allow only 4 characters.
 
 
 <div class="code-heading">
