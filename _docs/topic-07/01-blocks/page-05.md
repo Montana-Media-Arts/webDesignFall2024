@@ -11,7 +11,7 @@ The **span element** is the inline equivalent of the `<div>` element.
 <div class="container-row">
   <img src="../img/legos-spans.png" alt="stacked building blocks with stickers representing span elements" title="Blocks can have multiple spans!" style="float: right; width: 150px; margin-top: 0;" />
 
-  <p>This means that spans can exist within divs, and do not create full-width blocks. It serves to identify or group content together that requires organization or extra styling. You can have <b>multiple span elements</b> inside a div.</p>
+  <p>This means that spans can exist within divs and do not create full-width blocks. It serves to identify or group content together that requires organization or extra styling. You can have <b>multiple span elements</b> inside a div.</p>
 
   <p>One specific use for the <code>&lt;span&gt;</code> element is to identify text that needs to appear visually unique on the rendered HTML page.</p>
 
