@@ -6,9 +6,9 @@ permalink: /topic-07/media-src-audio/
 
 <div class="divider-heading"></div>
 
-<span class="label label-danger">Important</span> All media you use on your sites should be your own or in "fair public use," usually under <a href="https://creativecommons.org/" target="_new">Creative Commons</a> (CC) public licence. **You should always credit the author when asked to do so.**
+<span class="label label-danger">Important:</span> All media you use on your sites should be your own or in "fair public use," usually under <a href="https://creativecommons.org/" target="_new">Creative Commons</a> (CC) public license. **You should always credit the author when asked to do so.**
 
-<span class="label label-danger">Important</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
+<span class="label label-danger">Important:</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
 
 
 ## Common Downloadable Audio Sources
@@ -21,7 +21,7 @@ permalink: /topic-07/media-src-audio/
 
 ## How-To:
 
-The Audio Archive, for example, is a great source of royalty-free and creative commons audio works, usually offered in MP3 format.
+The Audio Archive, for example, is a great source of royalty-free and Creative Commons audio works, usually offered in MP3 format.
 Here's an example from the <a href="https://archive.org/details/SVS-3044" target="_new">Apollo 11 landing</a> using Chrome:
 
 
@@ -31,7 +31,7 @@ Here's an example from the <a href="https://archive.org/details/SVS-3044" target
 <br><br>
 
 
-One of the potential issues of using the `<audio>` element in particular is that it allows end-users to easily download the audio file. For example, in Safari, this can be done by right-clicking the audio player and selecting “Download Audio.” Chrome actually provides a download button with the audio player.
+One of the potential issues of using the `<audio>` element in particular is that it allows end-users to download the audio file easily. For example, Safari can do this by right-clicking the audio player and selecting “Download Audio.” Chrome actually provides a download button with the audio player.
 
 
 <img src="../img/download-audio-safari.png" alt="audio file with download option selected in Safari" title="Easy Download in Safari" width="400" />
