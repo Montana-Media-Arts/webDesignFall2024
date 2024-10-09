@@ -8,7 +8,7 @@ permalink: /topic-07/audio-src/
 
 The `<audio>` element takes a **source attribute** (`src=""`), which accepts a URL (relative or absolute) to a single audio file.
 
-As with video, it is always recommended you have at least two versions of an audio file, and should use the `<source>` element instead.
+As with video, it is always recommended to have at least two versions of an audio file and use the `<source>` element instead.
 
 
 ## Single-Source
@@ -29,7 +29,7 @@ As with video, it is always recommended you have at least two versions of an aud
 
 
 ## Multiple-Source
-You can use multiple **source elements**, which specifies to the browser the audio that is available in multiple formats. This is the `<source >` element, and again, it is used _instead_ of the `src=""` attribute of an `<audio>` element.
+You can use multiple **source elements**, which specify to the browser the audio that is available in multiple formats. This is the `<source >` element, and again, it is used _instead_ of the `src=""` attribute of an `<audio>` element.
 
 
 <div class="panel panel-success">
@@ -51,9 +51,9 @@ You can use multiple **source elements**, which specifies to the browser the aud
 
 
 ### Types
-When using more than just `.mp3` you should include multiple versions of the file, with decreasing preference. This allows the browser to then use the file format that it supports.
+When using more than just `.mp3`, you should include multiple file versions, with decreasing preference. This allows the browser to use the file format that it supports.
 
-The `<source>` element is an empty element, and accepts the `src=""` attribute to provide the URL to the browser. Use the `type=""` attribute to include the [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), which allows the browser to instantly know if it can play that file.
+The `<source>` element is an empty element and accepts the `src=""` attribute to provide the URL to the browser. Use the `type=""` attribute to include the [MIME type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types), which allows the browser to know if it can play that file instantly.
 
 Here are the types (and codecs when applicable) for the more popular audio filetypes:
 - _MP3_ - `type="audio/mpeg"`
