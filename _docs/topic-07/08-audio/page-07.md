@@ -15,7 +15,7 @@ Best included self-hosted audio formats:
 - OGG Audio: Open-sourced.
 - Wav<a href="#lossless-formats">*</a>: Lossless, but larger files.
 
-There are many file formats that audio files can be rendered to. The most popular and well known is likely `.mp3`.
+Audio files can be rendered to many file formats. The most popular and well-known is likely `.mp3`.
 
 This is because the compression achieved creates smaller file sizes without comprising audio quality too greatly. However, `.mp3` is technically a proprietary format, and as such, some people are hesitant to use it.
 
@@ -28,7 +28,6 @@ If you find yourself working for an audio-based client, they may also have stron
 Notice that the `<audio>` element is not an "empty element" and requires both an opening and closing tag. This serves a number of purposes, but the most important is that the developer can include content between the tags that will be displayed or called in the case that an end-user's browser does not support the `<audio>` element or audio file format.
 
 You should always include extra markup inside the tags for this potential case.
-
 
 <div class="code-heading">
   <span class="html">HTML</span>
