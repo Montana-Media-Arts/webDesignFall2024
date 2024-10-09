@@ -14,12 +14,12 @@ The 5 attributes the video element should include are:
 2. The source attribute.
 3. A video poster.
 4. Width and height values.
-5. Other attributes which define how users can interact with the media.
+5. Other attributes that define how users interact with the media.
 
-<span class="label label-info">Note:</span> As there are two ways to approach this, the following pages with showcase both:
+<span class="label label-info">Note:</span> As there are two ways to approach this, the following pages will showcase both:
 
 ## Single-Source
-Use this set-up if you only have _one version_ of the video file, like an MP4.
+Use this setup if you only have _one version_ of the video file, like an MP4.
 
 
 <div class="container-row">
@@ -32,7 +32,7 @@ Use this set-up if you only have _one version_ of the video file, like an MP4.
 
 
 ## Multiple-Source
-Use this set-up if you have _multiple versions_ of the video file, like MP4, WebM, OGG, etc.
+Use this setup if you have _multiple versions_ of the video file, like MP4, WebM, OGG, etc.
 
 
 <div class="container-row">
