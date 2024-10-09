@@ -17,7 +17,7 @@ The 3 attributes the audio element should include are:
 <span class="label label-info"></span> As there are two ways to approach this, the following pages will showcase both:
 
 ## Single-Source
-Use this set-up if you only have _one version_ of the audio file, like an MP3.
+Use this setup if you only have _one version_ of the audio file, like an MP3.
 <div class="container-row">
   <img src="../img/file-icon-audio-mp3.svg" title="MP3" alt="mp3 icon" width="100"/>
   <p style="margin-top: -10px; text-align: center; font-weight: bold;">song.mp3</p>
@@ -28,7 +28,7 @@ Use this set-up if you only have _one version_ of the audio file, like an MP3.
 
 
 ## Multiple-Source
-Use this set-up if you have _multiple versions_ of the audio file, such as MP3, WAV, OGG, etc.
+Use this setup if you have _multiple versions_ of the audio file, such as MP3, WAV, OGG, etc.
 
 <div class="container-row">
   <div class="col-sm-4">
