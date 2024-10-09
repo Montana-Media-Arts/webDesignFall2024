@@ -8,7 +8,7 @@ permalink: /topic-07/video-src/
 
 The `<video>` element takes a **source attribute** (`src=""`), which accepts a URL (relative or absolute) to a single video file.
 
-It is always recommended you have at least two versions of a video file, and should use the `<source>` element instead, which is described below.
+You should always have at least two video file versions and use the `<source>` element, as described below.
 
 
 ## Single-Source
@@ -29,7 +29,7 @@ It is always recommended you have at least two versions of a video file, and sho
 
 
 ## Multiple-Source
-You can use multiple **source elements**, which specifies to the browser that the video is available in multiple formats. This is the `<source>` element, and again, it is used _instead_ of the `src=""` attribute of a `<video>` element.
+You can use multiple **source elements**, which specify to the browser that the video is available in multiple formats. This is the `<source>` element, and again, it is used _instead_ of the `src=""` attribute of a `<video>` element.
 
 <span class="label label-info">Note:</span> Due to a bug on the iPad, you should provide the MP4 video as the first format.
 
