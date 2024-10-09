@@ -6,7 +6,7 @@ permalink: /topic-07/audio-other-att/
 
 <div class="divider-heading"></div>
 
-There are several other attributes that can be applied to the `<audio>` to make it behave as intended.
+Several other attributes can be applied to the `<audio>` to make it behave as intended.
 
 
 <div class="panel panel-success">
@@ -57,7 +57,7 @@ As with the `<video>` element, this attribute tells the browser what to do when 
 
 
 ### controls
-When the `controls` attribute is supplied it indicates the browser should supply its own controls for playback. If you do not use this attribute, no controls will be shown by default.
+When the `controls` attribute is supplied, the browser should supply its own controls for playback. No controls will be shown by default if you do not use this attribute.
 
 
 ### loop
@@ -67,4 +67,4 @@ This tells the browser whether or not to loop the audio.
 ### autoplay
 When used, this attribute specifies that the file should play automatically.
 
-<span class="label label-info"></span> Remember, this is considered poor-practice, and in most cases, it is better to let the user choose whether to start the audio or not.
+<span class="label label-info"></span> Remember, this is considered poor practice, and in most cases, it is better to let the user choose whether to start the audio or not.
