@@ -6,7 +6,7 @@ permalink: /topic-07/video-poster/
 
 <div class="divider-heading"></div>
 
-The **poster attribute** (`poster="#"`) should always be supplied with the `<video>` element. This attribute takes a URL as its value, which should point to an image that is displayed in place of the video until the visitor elects play the video.
+The **poster attribute** (`poster="#"`) should always be supplied with the `<video>` element. This attribute takes a URL as its value, which should point to an image that is displayed in place of the video until the visitor elects to play the video.
 
 
 ## Single-Source
