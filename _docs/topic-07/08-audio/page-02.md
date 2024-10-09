@@ -12,9 +12,9 @@ The 3 attributes the audio element should include are:
 
 1. The tags themselves.
 2. The source attribute.
-3. Other attributes which define how users can interact with the media.
+3. Other attributes that define how users interact with the media.
 
-<span class="label label-info"></span> As there are two ways to approach this, the following pages with showcase both:
+<span class="label label-info"></span> As there are two ways to approach this, the following pages will showcase both:
 
 ## Single-Source
 Use this set-up if you only have _one version_ of the audio file, like an MP3.
@@ -28,7 +28,7 @@ Use this set-up if you only have _one version_ of the audio file, like an MP3.
 
 
 ## Multiple-Source
-Use this set-up if you have _multiple versions_ of the audio file, like MP3, WAV, OGG, etc.
+Use this set-up if you have _multiple versions_ of the audio file, such as MP3, WAV, OGG, etc.
 
 <div class="container-row">
   <div class="col-sm-4">
