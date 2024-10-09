@@ -6,9 +6,9 @@ permalink: /topic-07/media-src-video/
 
 <div class="divider-heading"></div>
 
-<span class="label label-danger">Important</span> All media you use on your sites should be your own or in "fair public use," usually under <a href="https://creativecommons.org/" target="_new">Creative Commons</a> (CC) public licence. **You should always credit the author when asked to do so.**
+<span class="label label-danger">Important:</span> All media you use on your sites should be your own or in "fair public use," usually under <a href="https://creativecommons.org/" target="_new">Creative Commons</a> (CC) public license. **You should always credit the author when asked to do so.**
 
-<span class="label label-danger">Important</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
+<span class="label label-danger">Important:</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
 
 
 ## Common Downloadable Video Sources
@@ -21,7 +21,7 @@ permalink: /topic-07/media-src-video/
 
 ## How-To:
 
-A cellphone video is a good option, or the Moving Iamge Archive has Creative Commons video that you can download, which conveniently show metadata like size and filetype. Here's an example about <a href="https://archive.org/details/Pluto_Flyby" target="_new">Pluto</a> using Firefox:
+A cellphone video is a good option, or the Moving Image Archive has a Creative Commons video that you can download, conveniently showing metadata like size and file type. Here's an example about <a href="https://archive.org/details/Pluto_Flyby" target="_new">Pluto</a> using Firefox:
 
 
 <div style="width: 600px; margin: auto">
@@ -29,7 +29,7 @@ A cellphone video is a good option, or the Moving Iamge Archive has Creative Com
 </div>
 <br><br>
 
-Hovering your cursor over the download link will show you the file's size. Most videos give you the two required options you need: H.264 (`.mp4`) and an open-source type (`.ogg`).
+Hovering your cursor over the download link will show you the file's size. Most videos give you the two required options: H.264 (`.mp4`) and an open-source type (`.ogg`).
 
 
 <img src="../img/download-video-archive.png" alt="Hovering mouse over download icons" title="Downloading with Archive.org" width="400" />
