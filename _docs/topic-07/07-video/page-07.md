@@ -6,7 +6,7 @@ permalink: /topic-07/video-other-att/
 
 <div class="divider-heading"></div>
 
-There are several other attributes that can be applied to the `<video>` to make it behave as intended.
+Several other attributes can be applied to the `<video>` to make it behave as intended.
 
 
 <div class="panel panel-success">
@@ -49,11 +49,11 @@ There are several other attributes that can be applied to the `<video>` to make 
 
 
 ### preload
-The `preload` attribute takes one of three values and tells the browser how to load the video file if `autoplay` is not present.
+The `preload` attribute takes one of three values and tells the browser how to load the video file if `autoplay` is absent.
 
-- `preload="none"` - tells the browser to do nothing until told to do so by the user.
+- `preload="none"` - tells the browser to do nothing until the user tells it to do so.
 - `preload="auto"` - tells the browser to download the media file when the page loads.
-- `preload="metadata"` - tells the browser to only collect metadata, such as size and length.
+- `preload="metadata"` - tells the browser only to collect metadata, such as size and length.
 
 
 ### controls
@@ -67,4 +67,4 @@ The `loop` attribute, when present, tells the browser to loop the file.
 ### autoplay
 Like the `controls` attribute, the `autoplay` attribute is included as a single word or not at all. When present, this attribute tells the browser to start playing the file on load.
 
-<span class="label label-info">Note:</span> This is considered poor-practice, and in most cases, it is better to let the user choose whether to start the video or not.
+<span class="label label-info">Note:</span> This is considered poor practice, and in most cases, it is better to let the user choose whether to start the video or not.
