@@ -6,9 +6,9 @@ permalink: /topic-08/basic-nav-element/
 
 <div class="divider-heading"></div>
 
-With HTML5 came the **nav element**. A `<nav>` block can contain your site's _major_ page or intra-page links, and can be used to declare a menu, table of contents, or site index.
+With HTML5 came the **nav element**. A `<nav>` block can contain your site's _major_ page or intra-page links and can be used to declare a menu, table of contents, or site index.
 
-Using the `<nav>` element is considered good practice because of its accessible features, but is also useful for styling purposes.
+Using the `<nav>` element is considered good practice because of its accessible features, but it is also useful for styling purposes.
 
 
 <span class="label label-danger">Important</span> As with anything you want visible to users, the `<nav>` element must be within the `<body>` of the page.
@@ -53,7 +53,7 @@ To get a “horizontal” nav without much styling, you can simply add `<a href=
 
 
 ### Lists
-However, lists are preferred by screen-reader technologies as it increases the accessibility of the navigation. The “[Styling Text](../basic-styling-text)” page in the previous subtopic showed you how to display these items horizontally, if preferred.
+However, lists are preferred by screen-reader technologies as they increase the accessibility of the navigation. The “[Styling Text](../basic-styling-text)” page in the previous subtopic showed you how to display these items horizontally if preferred.
 
 <div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="NWrqGKY" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="The Nav Element, List Links" class="codepen"></p>
