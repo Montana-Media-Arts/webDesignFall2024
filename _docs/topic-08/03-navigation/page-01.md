@@ -13,7 +13,7 @@ Any site with a respectable amount of content needs to have reliable site naviga
 
 <img src="../img/site-nav-example.gif" alt="blocks of the site navigation bar" title="Site Navigation" />
 
-This navigation is available at all times while browsing the site. The _section navigation_ to the left however, only populates pages relative to its module, and is unavailable otherwise.
+This navigation is available at all times while browsing the site. However, the _section navigation_ to the left only populates pages relative to its module and is unavailable otherwise.
 
 For your Instructable, you should consider two types of navigation:
 1. Site Navigation (set of links to pages on the site)
