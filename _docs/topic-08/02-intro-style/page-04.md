@@ -8,7 +8,7 @@ permalink: /topic-08/basic-styling-backgrounds/
 
 We will get more into styling backgrounds when we formally talk about CSS, but for now, you can do basic color styling using various **background** properties.
 
-Many structural elements can have background property values. If you have a busy page background, it is helpful to add a neutral background to a container (like a div) to keep your content legible and clean.  We just did this in the previous section!
+Many structural elements can have background property values. If your page has a busy background, it is helpful to add a neutral background to a container (like a div) to keep your content legible and clean.  We just did this in the previous section!
 
 
 ## Adding a Background Color
@@ -37,7 +37,7 @@ You can easily generate a pattern on your background by adding a small image (le
 ```html
   <body style="background-image: url("#");">
 ```
-**Note** Keep in mind that the image can be something on your site or something external. Just a relative link if it's on your site use a absolute link if it's external (i.e. should start with http or https).
+**Note** Keep in mind that the image can be on your site or external. If it's on your site, use a relative link; if it's external, use an absolute link (i.e., it should start with http or https).
 
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="gOMppWr" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div padding" class="codepen"></p>
@@ -55,4 +55,4 @@ See how you can add pizazz ( I know, I know, it's busy!) with **background-color
 </div>
 
 
-Like you saw on the previous page, adding a pixel amount to the `padding: ;` property within your chosen element can give cushion between the boundary of the container and the contents inside.
+As you saw on the previous page, adding a pixel amount to the `padding: ;` property within your chosen element can create a cushion between the container's boundary and its contents.
