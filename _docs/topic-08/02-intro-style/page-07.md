@@ -6,7 +6,7 @@ permalink: /topic-08/basic-styling-lists/
 
 <div class="divider-heading"></div>
 
-Lists can be styled like most text-based block elements, like headings and paragraphs. You can style the list as a whole (`<ul>`, `<ol>`) and/or the list items inside (`<li>`).
+Like most text-based block elements, such as headings and paragraphs, lists can be styled. You can style the list as a whole (`<ul>`, `<ol>`) and/or the list items inside (`<li>`).
 
 
 ## Adding a Background Color
@@ -26,7 +26,7 @@ li {
 
 
 ## Coloring Text
-Just like with other text elements, you can add the **color property** to the list items.
+Like other text elements, you can add the **color property** to the list items.
 
 <div class="code-heading">
   <span class="html">HTML</span>
@@ -44,7 +44,7 @@ li {
 Lists and list items are <a href="../../topic-05/extra-markup#block-level" target="_blank">block-level elements</a>, meaning each will get a full-page line all to themselves.</p>
 
 
- This can be problematic if you want to do a list of links to your site pages. Without extra styling, they will appear vertically down the page, a design layout that isn't often done. We can change this appearance using the **display property**, set to `inline`.
+This can be problematic if you want to create a list of links to your site pages. Without extra styling, they will appear vertically down the page, a design layout that isn't often used. We can change this appearance using the display property, set to `inline`.
 
  <div class="code-heading">
   <span class="html">HTML</span>
@@ -60,7 +60,7 @@ Lists and list items are <a href="../../topic-05/extra-markup#block-level" targe
 
 
 ### Example
-See how you can make a list stand-out by changing its **background color**, text **color**, and item **display**!
+See how you can make a list stand out by changing its **background color**, text **color**, and item **display**!
 
 **Note** In the style element, the `ul` and the `li` are put together so that they both use the _display:inline_ style.  Otherwise, the list items won't be horizontal.
 
