@@ -20,7 +20,7 @@ Keep in mind that there are three ways to apply styles.
 3. **External stylesheet** - link to a page containing styles that can affect multiple pages as long as each page links to that the external style sheet.
 
 **Important**
-So far, embedded styles are the only technique we have used. We will introduce inline styles this week and look at external stylesheets in the coming weeks. This week's conversation on style is not meant to be comprehensive but a primer for what is to come.  We will get more details starting next week!
+So far, embedded styles have been our main focus. We will dive into inline styles this week and look at external stylesheets in the coming weeks. This week's conversation on style is not meant to be comprehensive but a primer for what is to come.
 
 <img src="../img/site-style-example.gif" alt="areas of the site highlighted by styling" title="Site Style" />
 
