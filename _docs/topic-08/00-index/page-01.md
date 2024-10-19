@@ -17,7 +17,7 @@ HTML is the backbone of web languages. We've spent several weeks learning about 
 
 This week, using our knowledge of HTML and GitHub, we will create a 3-page “Instructable” (illustrated instruction guide). If you've never utilized an Instructable, explore <a href="https://www.instructables.com/" target="_blank">the Instructables website</a> for ideas on both content and layout!
 
-Think of a topic you know a lot about - an academic study, craft, favorite recipe, artist technique, etc. for example - and begin collecting materials. The site you build should contain:
+Think of a topic you know a lot about - an academic study, craft, favorite recipe, artist technique, etc., for example - and begin collecting materials. The site you build should contain the following:
 1. Structural and semantic markup.
 2. Well-organized block-style page structure.
 2. Images (preferably your own, but sourced is allowed).
