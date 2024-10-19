@@ -10,7 +10,7 @@ At this stage, you should use element selectors to “point” to structural tex
 
 
 ## Coloring Text
-Backgrounds are not the only element that can hold a color value. Likewise, you can color text using the **color property**. Again, <a href="https://www.w3schools.com/cssref/css_colors.asp" target="_blank">color names</a> are a great way state color values at this stage.
+Backgrounds are not the only element that can hold a color value. Likewise, you can color text using the **color property**. Again, <a href="https://www.w3schools.com/cssref/css_colors.asp" target="_blank">color names</a> are a great way to state color values at this stage.
 
 <div class="code-heading">
   <span class="html">HTML</span>
