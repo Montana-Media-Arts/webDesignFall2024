@@ -6,7 +6,7 @@ permalink: /topic-09/style-element/
 
 <div class="divider-heading"></div>
 
-Within an HTML document, for example `index.html`, you can place CSS within a **style element** (`<style>...</style>`). This is the practice we've been using so-far in the course.
+Within an HTML document, for example, `index.html`, you can place CSS within a **style element** (`<style>...</style>`). This is the practice we've mainly used so far in the course.
 
 <span class="label label-info">NOTE:</span> You should place your style element inside the `<head>` element as one of the _last_ entries.
 
