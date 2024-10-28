@@ -6,7 +6,7 @@ permalink: /topic-09/combining-color/
 
 <div class="divider-heading"></div>
 
-When we start to mix the ratios of red, green, and blue, we come up with the rest of the colors of the spectrum. Some of the first colors we should consider are the complementary colors of red, green, and blue. To get the complementary color for red, we use full green and blue. This creates cyan.
+When we mix the ratios of red, green, and blue, we come up with the rest of the colors of the spectrum. Some of the first colors we should consider are the complementary colors of red, green, and blue. We use full green and blue to get the complementary color for red. This creates cyan.
 
 - Name: cyan;
 - RGB: rgb(0, 255, 255);
@@ -50,9 +50,9 @@ Likewise, to get the complimentary colors for green and blue, which are magenta 
 </div>
 <div width="50%" height="20px"
     style="background-color:#0000ff;color:#ffff00;padding:10px;font-size:1.25em;">
-    Yellow compliments blue.
+    Yellow complements blue.
 </div>
 
 <br />
 
-Others colors are obviously some combination of these values. The exact ratios depend on the amounts of red, green, and blue in every value.
+Other colors are some combination of these values. The exact ratios depend on the red, green, and blue amounts in every value.
