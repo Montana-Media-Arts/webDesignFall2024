@@ -6,7 +6,7 @@ permalink: /topic-09/intro-positioning/
 
 <div class="divider-heading"></div>
 
-Designing layout is an intensive process, and is where most of your time will be spent as a dev. There are many advanced properties that will help you when creating layouts (particularly those that need to be responsive), but for now, let's consider creating a _static_ layout using **absolute positioning**.
+Designing layouts is an intensive process, and it is where most of your time will be spent as a developer. Many advanced properties will help you when creating layouts (particularly those that need to be responsive), but for now, let's consider creating a _static_ layout using **absolute positioning**.
 
 The position property (`position: `), as you may expect, allows developers to specify where the position of elements will be within the browser window.
 
@@ -46,7 +46,7 @@ For example, I can create a "canvas" 100px by 100px wide, and color half using a
 
 #### Example
 
-**Geometric Style:** The following example, I created a "canvas" 300px by 300px, with 3 main elements - the sun, rainbow, and clouds. Most of these elements were positioned _absolutely_ to the **bottom** and **left** of the canvas' edges and the neighboring element.
+**Geometric Style:** For the following example, I created a "canvas" 300px by 300px with three main elements: the sun, rainbow, and clouds. Most of these elements were positioned _absolutely_ to the **bottom** and **left** of the canvas edges and the neighboring element.
 
 
 <div class="codepen-embed">
@@ -55,7 +55,7 @@ For example, I can create a "canvas" 100px by 100px wide, and color half using a
 
 <br/>
 
-**Realism-ish Style:** Alternatively, I placed all of my colored blocks in an additional `.curved` class, with the border-radius property (`border-radius: `) set to a high curvature. It may look more like a rainbow, but more calculation required with this method, sizing in terms of the left, top, and right pixel values.
+**Realism-ish Style:** Alternatively, I placed all of my colored blocks in an additional `.curved` class, with the border-radius property (`border-radius: `) set to a high curvature. It may look like a rainbow, but this method requires more calculation and sizing regarding the left, top, and right pixel values.
 
 <div class="codepen-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="zYBqXpY" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="[Topic-08] Basic Absolute Positioning, Pt. 2" class="codepen"></p>
