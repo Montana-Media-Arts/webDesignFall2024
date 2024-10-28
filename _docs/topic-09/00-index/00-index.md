@@ -14,11 +14,11 @@ tags:
 
 While we've explored styling briefly in the previous topics, it's time to really dig into learning how to use CSS or <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">C</span>ascading <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">S</span>tyle <span style="font-weight: bolder; text-decoration: underline; color: #E95420;">S</span>heets.
 
-<span style="font-weight: bolder; text-decoration: underline; color: #E95420;">CSS</span> is a language that tells browsers how to display and style content in HTML. It does not change the content itself, but will allow you to specify color, font, size, background, padding, alignment, how pages resize, if certain elements should be hidden, and many more qualities.
+<span style="font-weight: bolder; text-decoration: underline; color: #E95420;">CSS</span> is a language that tells browsers how to display and style content in HTML. It does not change the content itself but will allow you to specify color, font, size, background, padding, alignment, how pages resize, if certain elements should be hidden, and many more qualities.
 
 
-The objectives of this topic is:
+The objectives of this topic are:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Understanding how CSS functions in web design, and the many ways one can use it in their pages.</li>
-  <li class="icon-pro">Experimenting with CSS selectors and declarations, and linking stylesheets to HTML pages.</li>
+  <li class="icon-pro">Understanding how CSS functions in web design and how one can use it in their pages.</li>
+  <li class="icon-pro">Experimenting with CSS selectors and declarations and linking stylesheets to HTML pages.</li>
 </ul>
