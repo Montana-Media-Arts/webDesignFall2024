@@ -13,7 +13,7 @@ Text properties tend to inherit values from their parents; however, some propert
 
 ### Forcing Inheritance
 
-If you are worried, or find a property that is not inheriting, you can force inheritance with the `inherit` keyword as the properties value.
+If you are worried or find a property that is not inheriting, you can force inheritance by setting the `inherit` keyword as the property's value.
 
 
 <div class="codepen-embed">
