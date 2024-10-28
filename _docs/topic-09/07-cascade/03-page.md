@@ -6,7 +6,7 @@ permalink: /topic-09/cascade-specify/
 
 <div class="divider-heading"></div>
 
-Rules which are more **specific** will take precedence over less specific rules. This is true even if the less specific rule is defined last.
+Rules that are more **specific** will take precedence over less specific rules, even if the less specific rule is defined last.
 
 For example;
 - `h1 p {}` is more specific than `p {}` alone.
