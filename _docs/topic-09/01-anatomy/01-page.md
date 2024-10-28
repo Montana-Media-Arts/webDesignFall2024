@@ -10,7 +10,7 @@ To "style" content in an HTML document, one must write style "rules" that apply 
 
 ### Selector
 
-The first part of every rule is a "**selector**", which tells the browser what element(s) the rule applies to. This is followed by a space, then a block, surrounded by curly brackets.
+The first part of every rule is a "**selector**" that tells the browser what element(s) the rule applies to. This is followed by a space and then a block surrounded by curly brackets.
 
 <div class="code-heading">
   <span class="css">CSS</span>
