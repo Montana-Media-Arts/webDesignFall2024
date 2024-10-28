@@ -6,7 +6,7 @@ permalink: /topic-09/saturated-color/
 
 <div class="divider-heading"></div>
 
-For example: to specify a color of full red in either system, we set the first number to 255, and the other two to 0. Likewise, to specify a color of full green or full blue, use a value of 255 for the color in question, and 0 for the others:
+For example, to specify a color of full red in either system, we set the first number to 255 and the other two to 0. Likewise, to specify a color of full green or full blue, use a value of 255 for the color in question and 0 for the others:
 
 - Name: red;
 - RGB: rgb(255, 0, 0);
