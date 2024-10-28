@@ -6,7 +6,7 @@ permalink: /topic-09/color-hex/
 
 <div class="divider-heading"></div>
 
-Hexadecimal (or hex) values, are written as a single string, prepended with a number sign, with digits for each color. `#RRGGBB`
+Hexadecimal (or hex) values are written as a single string, prepended with a number sign, with digits for each color. `#RRGGBB`
 
 
 <div class="code-heading">
@@ -21,7 +21,7 @@ p {
 
 **The major difference** is that you can represent 256 values with a two-bit hexadecimal number. In hexadecimal numbering, each digit has 16 values (0-f). And, 16 * 16 = 256.
 
-If we were translate this to binary:
+If we were to translate this to binary:
 
 
 <table style="width: 250px; text-align: center; margin: auto;">
