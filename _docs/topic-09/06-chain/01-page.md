@@ -8,7 +8,7 @@ permalink: /topic-09/chain-direct/
 
 In addition to using a single selector, developers can also _chain selectors_ to increase the specificity of their request.
 
-You can create a **direct chain** in CSS that tells the browser to grab a specific element. To do this, you simply place selectors together, without any spaces.
+You can create a **direct chain** in CSS that tells the browser to grab a specific element. To do this, you simply place selectors together without any spaces.
 
 In the following example, the rule tells the browser to select all paragraph (`<p>`) elements with the class "styled".
 
