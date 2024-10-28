@@ -8,9 +8,9 @@ permalink: /topic-09/inherit-who/
 
 Another crucial idea and concept in CSS is that of **inheritance**.
 
-Inheritance allows rules for certain aspects that are defined in parent elements to apply to all children elements.
+Inheritance allows rules for certain aspects defined in parent elements to apply to all children elements.
 
-For example, defining the text color and font family in the all selector (`* {}`) or HTML element selector (`html {}`), will define a base text color and font for the entire page (or until another more specific rule overwrites it).
+For example, defining the text color and font family in the "all" selector (`* {}`) or HTML element selector (`html {}`) will define a base text color and font for the entire page (or until another more specific rule overwrites it).
 
 
 <div class="codepen-embed">
