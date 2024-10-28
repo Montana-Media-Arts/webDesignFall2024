@@ -6,7 +6,7 @@ permalink: /topic-09/grayscale-color/
 
 <div class="divider-heading"></div>
 
-We know from color theory, that white is the presence of all colors and black is the absence of all colors. Knowing this, we can deduce that black would be all 0's and white would be all full value.
+From color theory, we know that white is the presence of all colors and black is the absence of all colors. Knowing this, we can deduce that black would be all 0s and white would be all full values.
 
 - Name: black;
 - RGB: rgb(0, 0, 0);
@@ -28,7 +28,7 @@ We know from color theory, that white is the presence of all colors and black is
 
 <br />
 
-Following from this principle, to get any color within the grey scale, we simply need to provide the same value for each color.
+Following this principle, to get any color within the greyscale, we simply need to provide the same value for each color.
 
 <div style="border-style:solid;border-width:1px;border-color:#000;text-align:center;">
   <div width="50%" height="20px"
