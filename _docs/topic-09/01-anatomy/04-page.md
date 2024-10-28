@@ -6,9 +6,9 @@ permalink: /topic-09/knowing-css/
 
 <div class="divider-heading"></div>
 
-Elements have many properties that can be affected. This course covers several of them, but not all. Luckily, many of the properties that intuitively labeled.
+Elements have many properties that can be affected. This course covers several of them, but not all of them. Luckily, many of the properties are intuitively labeled.
 
-For example, the below example identified the "background color" for the
+For example, the below example identified the "background-color" for the
 entire `body` element (usually the whole page) and set it to "orange."
 
 
