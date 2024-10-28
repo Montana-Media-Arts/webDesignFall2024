@@ -10,15 +10,15 @@ Inside the declaration, one specifies how to style the selected element with pro
 
 The pair is separated with a colon (`:`).
 
-Additional declarations are separated with a semicolon (`;`), and are typically placed on new lines.
+Additional declarations are separated with a semicolon (`;`) and are typically placed on new lines.
 
 ### Property
 
-The **property** is the aspect about the element that one wants to change, i.e. background-color, color, font-family, etc.
+The **property** is the aspect of the element that one wants to change, e.g., background color, color, font family, etc.
 
 ### Value
 
-The **value** defines how to change a property; for example, 'red', 'Arial', etc.
+The **value** defines how to change a property, such as 'red' or 'Arial'.
 
 <div class="code-heading">
   <span class="css">CSS</span>
