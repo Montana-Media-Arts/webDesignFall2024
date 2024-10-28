@@ -6,9 +6,9 @@ permalink: /topic-09/selectors-universal/
 
 <div class="divider-heading"></div>
 
-There are multiple ways of selecting elements from an HTML page. This allows developers to use _general selectors_ when a rule should apply to many elements, and _specific selectors_ when a rule should only apply to a few or one element.
+There are multiple ways of selecting elements from an HTML page. This allows developers to use _general selectors_ when a rule should apply to many elements and _specific selectors_ when a rule should only apply to a few or one element.
 
-The **universal selector** is used to style _every_ element on a page. The universal selector is the star (`*`). The star is often used in computer science to mean "all."
+The **universal selector**, the star (`*`), is used to style _every_ element on a page. The star is often used in computer science to mean "all."
 
 
 <div class="codepen-embed">
