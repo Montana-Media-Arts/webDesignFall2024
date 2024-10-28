@@ -20,4 +20,4 @@ p {
 ```
 
 
-However, color names are limited; modern browsers only recognize 140 names, so if it's color variety you seek, you may decide to go with hex or RGB values.
+However, color names are limited; modern browsers only recognize 140 names, so if you seek color variety, you may decide to use hex or RGB values.
