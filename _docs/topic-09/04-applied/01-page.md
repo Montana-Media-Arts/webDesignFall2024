@@ -10,7 +10,7 @@ As with your HTML work, you should get in the habit of including comments in you
 
 These comments can be used to tell you what you are trying to do, leave yourself notes about what is happening and why, or be used to inform your instructors about what you were attempting.
 
-In CSS, comments are placed inside of a 'forward-slash', 'star' set (`/*...*/`).
+In CSS, comments are placed inside a 'forward-slash' and 'star' set (`/*...*/`).
 
 
 <div class="code-heading">
@@ -25,7 +25,7 @@ Comments in CSS are known as “block-comments”,
 which means they can span multiple lines.
 
 Notice how the comment delineators are placed on
-lines above and below the text respectively.
+lines above and below the text, respectively.
 */
 ```
 
