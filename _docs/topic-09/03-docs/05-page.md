@@ -17,13 +17,13 @@ permalink: /topic-09/link-href/
   </div>
 </div>
 
-Provide the relative or absolute URL as the value to the `href=""` attribute. This tells the browser where the document is located at.
+Provide the relative or absolute URL as the value to the `href=""` attribute. This tells the browser where the document is located.
 
-The process of linking CSS documents is the same as you've been doing for other site files, such as images and videos.
+Linking CSS documents is the same process you've been using for other site files, such as images and videos.
 
 
 ### External Style Sheets
-Many sites link out to external CSS documents as well, and will be linked via an _absolute URL_.
+Many sites also link to external CSS documents, which will be linked via an _absolute URL_.
 
 <div class="code-heading">
   <span class="html">HTML</span>
