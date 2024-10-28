@@ -8,7 +8,7 @@ permalink: /topic-09/style-attribute/
 
 Another way of specifying style is to include the rule as the value for a **style attribute** in any HTML element.
 
-As with the global `class` and `id` attributes, every HTML element can be passed a global `style` attribute. This value takes a string, formatted as valid CSS.
+As with the global `class` and `id` attributes, every HTML element can be passed a global `style` attribute. This value takes a string and is formatted as valid CSS.
 
 <span class="label label-info">NOTE:</span> Valid CSS will be discussed over the next few pages.
 
