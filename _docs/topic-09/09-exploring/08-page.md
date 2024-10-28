@@ -6,14 +6,14 @@ permalink: /topic-09/color-atom/
 
 <div class="divider-heading"></div>
 
-If you are using Atom as your text editor, there are two packages you may want to consider installing:
+**If** you are using Atom as your text editor (rather than VSC, for example), there are two packages you may want to consider installing:
 
 <br/>
 
 <div style="display: inline-block; width: 100%;">
   <img src="https://i.github-camo.com/467c72e686f00893c3d36bf46499e76c10f31787/68747470733a2f2f6769746875622e636f6d2f74686f6d61736c696e647374726f6d2f636f6c6f722d7069636b65722f7261772f6d61737465722f707265766965772e676966" alt="Atom Color Picker Demo" title="Atom Color Picker Demo" style="float: right; width: 250px; margin: 0 0 5px 5px; border: none" />
 
-  <p><a href="https://atom.io/packages/color-picker" target="_blank"><i>color-picker</i></a> - The atom color picker lets you inspect colors, as any value type (rgb, hex, hsl, etc.), and navigate a color "picker" so that you can insert any color value. Once, installed, you can pull up this package with the "atom command palette" by typing color.</p>
+  <p><a href="https://atom.io/packages/color-picker" target="_blank"><i>color-picker</i></a> - The atom color picker lets you inspect colors, as any value type (rgb, hex, hsl, etc.), and navigate a color "picker" so that you can insert any color value. Once installed, you can pull up this package with the "atom command palette" by typing color.</p>
 </div>
 
 <br />
