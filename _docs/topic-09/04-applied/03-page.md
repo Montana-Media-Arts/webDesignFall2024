@@ -6,7 +6,7 @@ permalink: /topic-09/apply-css/
 
 <div class="divider-heading"></div>
 
-Try it yourself, by editing in code playground below!
+Try it yourself by editing in the code playground below!
 
 1. Change the color of some text.
 2. Changed the background of the main-container `<div>` to "silver".
