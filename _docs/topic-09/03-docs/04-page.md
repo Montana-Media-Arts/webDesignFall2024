@@ -17,4 +17,4 @@ permalink: /topic-09/link-type/
   </div>
 </div>
 
-The type attribute tells the browser what type of document you are linking to. This should always be passed as `type="text/css"` when linking to a CSS document.
+The type attribute tells the browser what type of document you are linking to. When linking to a CSS document, this should always be passed as `type="text/css"`.
