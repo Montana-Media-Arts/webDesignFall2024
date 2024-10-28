@@ -25,7 +25,7 @@ There easiest way to set the background color for a page is through the <code>&l
 
 ### Background Color of an Element:
 
-<span class="label label-info">NOTE:</span> I am also including the CSS property `padding`. These will force the page to render block-level elements, even when they have no text content. Padding is the amount of space between the element content, and the edge of the element. In the case of no content, it is the amount of space between the edge and the center of the element.
+<span class="label label-info">NOTE:</span> I am also including the CSS property `padding`. These will force the page to render block-level elements, even when they have no text content. Padding is the amount of space between the element content and the edge of the element. In the case of no content, it is the amount of space between the edge and the center of the element.
 
 
 <div class="codepen-embed">
@@ -35,7 +35,7 @@ There easiest way to set the background color for a page is through the <code>&l
 
 ### Inner Elements
 
-When setting the background color of inner elements, you should do choose colors that encourage readability, and complement the main color schemes of the site.
+When setting the background color of inner elements, you should choose colors that encourage readability and complement the site's main color schemes.
 
 <div class="codepen-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="MWeyRZN" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="[Topic-07] Background Color" class="codepen"></p>
