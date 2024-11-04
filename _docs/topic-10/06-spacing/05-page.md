@@ -28,7 +28,7 @@ In addition to being able to adjust the space between characters, developers can
 
 ### “Why adjust word spacing?”
 
-Like with `letter-spacing: `, changing the distance between words and shift the visual message of the text as part of branding or design work. Fonts are are wider can generally see a decrease in `word-spacing: ` without sacrificing too much legibility, although this should be a thoughtful decision.
+Like with `letter-spacing: `, changing the distance between words and shifting the visual message of the text is part of branding or design work. Wider fonts can generally see a decrease in `word-spacing: ` without sacrificing too much legibility, although this should be a thoughtful decision.
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="NWrdemp" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Word-Spacing" class="codepen"></p>
