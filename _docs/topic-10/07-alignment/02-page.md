@@ -6,7 +6,7 @@ permalink: /topic-10/vert-align/
 
 <div class="divider-heading"></div>
 
-We can also **vertically align** element. The `vertical-align: ` property specifies vertical placement of text in relation to an inline element, usually images.
+We can also **vertically align** elements. The `vertical-align: ` property specifies the vertical placement of text in relation to an inline element, usually images.
 
 <div class="code-heading">
   <span class="css">CSS</span>
