@@ -10,7 +10,7 @@ Now that you know how to include a font, you need to know where to get them from
 
 As with any content you find on the web that you want to use in your own projects, you must check its license to see if you are legally allowed to use it in the way you intend.
 
-As with images, music, and video, fonts will fall under many different types of licenses. Some are very restrictive and require licensing fees, others will be given an MIT, GNU, or some other more open license.
+As with images, music, and video, fonts will fall under many different types of licenses. Some are very restrictive and require licensing fees, while others will be given an MIT, GNU, or some other more open license.
 
 However, even with these more open licenses, some fonts will still restrict what mediums they can be used freely on. This may include:
 
