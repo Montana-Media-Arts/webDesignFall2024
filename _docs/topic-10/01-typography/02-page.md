@@ -118,7 +118,7 @@ There are three general types of fonts that can be used in basic classification:
     <div class="tab-pane fade" id="monospace">
       <h3 style="font-family: monospace; font-size:2em; margin-top: 0;">Monospace Fonts</h3>
 
-      <p>Most modern fonts that are used for computers utilize "proportional width." This means a character is only as wide as necessary. Alternatively there is a class of fonts known as "fixed-width" or "monospaced." Each character in a monospaced font family is the same number of pixels wide.</p>
+      <p>Most modern fonts that are used for computers utilize "proportional width." This means a character is only as wide as necessary. Alternatively, there is a class of fonts known as "fixed-width" or "monospaced." Each character in a monospaced font family is the same number of pixels wide.</p>
 
       <!-- Example Sites -->
       <div class="row text-center">
@@ -160,7 +160,7 @@ There are three general types of fonts that can be used in basic classification:
         </div>
       </div>
 
-      <p>There has been a recent trend in using monospaced fonts, due to their legibility and implication of typewritten content. However, these fonts are primarily utilized for code. As an example, the code blocks throughout this courses webpages use the "Fira Mono" fixed-width font.</p>
+      <p>There has been a recent trend in using monospaced fonts due to their legibility and implication of typewritten content. However, these fonts are primarily utilized for code. For example, the code blocks throughout this course's web pages use the "Fira Mono" fixed-width font.</p>
 
       <p>One of the primary reasons for using these fonts is that characters will align vertically between different lines:</p>
 
