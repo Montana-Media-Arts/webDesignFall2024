@@ -28,4 +28,4 @@ If you intend to make more than one version of a font available, such as bold or
 
 When importing a font with `@font-face`, there are two additional properties that can be set, `font-weight: ` and `font-style: `. Setting these during font import makes them available to the browser.
 
-To use the font, then simply specify the weight and/or style in the CSS element rule, matching what you specified during font import.
+Then, to use the font, simply specify the weight and/or style in the CSS element rule, matching what you specified during font import.
