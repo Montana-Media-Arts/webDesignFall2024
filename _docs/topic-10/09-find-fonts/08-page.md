@@ -6,7 +6,7 @@ permalink: /topic-10/font-stylesheet/
 
 <div class="divider-heading"></div>
 
-Many developers will move the font import statements into their own CSS file, `fonts.css`. These allows the main CSS file to be cleaner in appearance.
+Many developers will move the font import statements into their own CSS file, `fonts.css`. These allow the main CSS file to appear cleaner.
 
 <div style="display: inline-block; width: 100%;">
 <p><img src="../img/directory-fonts-style.jpg" style="float: right; width: 350px; margin: 10px 0 10px 10px; border: none" />If you plan on doing a lot with fonts, you should have a separate <code>fonts.css</code> in your <code>/css</code> directory, to separate site styling from font styling.</p>
