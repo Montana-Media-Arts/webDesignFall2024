@@ -24,6 +24,6 @@ permalink: /topic-10/font-face-family/
   </div>
 </div>
 
-Like mentioned previously, `font-family: ` can be used for generic font classes (<span style="font-family: serif; font-size: 1.2em;">serif</span>, <span style="font-family: sans-serif; font-size: 1.2em;">sans-serif</span>, and <span style="font-family: monospace; font-size: 1.2em;">monospace</span>) and also for specific font family names.
+As mentioned previously, `font-family: ` can be used for generic font classes (<span style="font-family: serif; font-size: 1.2em;">serif</span>, <span style="font-family: sans-serif; font-size: 1.2em;">sans-serif</span>, and <span style="font-family: monospace; font-size: 1.2em;">monospace</span>) and also for specific font family names.
 
-Using `@font-face`, fonts can be named in relation to their files. This can be the same for the whole family (i.e. `font-family: 'Playfair Display'`) or specific to different variations (i.e. `font-family: 'Playfair Display Bold'`) depending on how the rule is structured.
+Using `@font-face`, fonts can be named in relation to their files. This can be the same for the whole family (i.e., `font-family: 'Playfair Display'`) or specific to different variations (i.e., `font-family: 'Playfair Display Bold'`) depending on how the rule is structured.
