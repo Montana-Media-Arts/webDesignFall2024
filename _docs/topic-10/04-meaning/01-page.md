@@ -9,7 +9,7 @@ permalink: /topic-10/bold-italic/
 <link rel="stylesheet" href="../ex-files/fonts.css">
 <link rel="stylesheet" href="../ex-files/style.css">
 
-Before we look at how to include external fonts, let's discuss font weight and font style. These are used to determine if a font is **bold** and/or _italic_.
+Before we discuss how to include external fonts, let's discuss font weight and font style. These determine whether a font is **bold** and/or _italic_.
 
 <div class="code-heading">
   <span class="preview">Preview</span>
