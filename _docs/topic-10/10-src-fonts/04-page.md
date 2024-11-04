@@ -7,7 +7,7 @@ permalink: /topic-10/google-fonts-part-3/
 <div class="divider-heading"></div>
 
 <!--
-<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. It may take 3-10 seconds to load completely.
 -->
 
 <br />
@@ -29,7 +29,7 @@ permalink: /topic-10/google-fonts-part-3/
 
 <br />
 
-After you have selected and customized a font as you did in Part 1, one option is to embed the font by linking to it and utilizing Google Fonts as its server via the "Standard" method, good for single-page sites.
+After you have selected and customized a font as you did in Part 1, one option is to embed the font by linking to it and utilizing Google Fonts as its server via the "Standard" method, which is good for single-page sites.
 
 ## Option B: Embedding Fonts Using Standard HTML
 
