@@ -9,9 +9,9 @@ permalink: /topic-10/font-style/
 <link rel="stylesheet" href="../ex-files/fonts.css">
 <link rel="stylesheet" href="../ex-files/style.css">
 
-**Font style** and the `font-style` property typically refer to whether a font is "_italicized_" or not.
+**Font style** and the `font-style` property typically refers to whether a font is "_italicized_" or not.
 
-_Italic_ is the style you are familiar with: setting this in CSS should cause the text to look the same as if would if you used the `<i>...</i>` tags in HTML.
+_Italic_ is the style you are familiar with: setting this in CSS should cause the text to look the same as it would if you used the `<i>...</i>` tags in HTML.
 
 `font-style:` accepts these term values:
 - `normal`
