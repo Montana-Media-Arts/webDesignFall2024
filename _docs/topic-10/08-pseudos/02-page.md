@@ -6,7 +6,7 @@ permalink: /topic-10/pseudo-elements/
 
 <div class="divider-heading"></div>
 
-The first type of pseudo thing we will discuss are **pseudo-elements**.
+The first type of pseudo-style we will discuss is **pseudo-elements**.
 
 There are two types of pseudo-elements:
 - `::first-letter`
