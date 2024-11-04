@@ -20,7 +20,7 @@ Moving on with CSS, this week will cover text and fonts. Despite being a very gr
 
 Grasping these concepts will make your text visually interesting without sacrificing structure and legibility.
 
-By the end of this Topic, we hope you:
+By the end of this topic, we hope you:
 <ul class="pros-and-cons">
   <li class="icon-pro">Know how to source fonts from the web.</li>
   <li class="icon-pro">Understand the difference and usage of system, web, and web-safe fonts.</li>
