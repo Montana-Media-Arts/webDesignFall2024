@@ -7,10 +7,10 @@ permalink: /topic-10/google-fonts-part-1/
 <div class="divider-heading"></div>
 
 <!--
-<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">LOAD TIME:</span> This page contains embedded interactive content. It may take 3-10 seconds to load completely.
 -->
 
-<a href="https://fonts.google.com" target="_new">Google Fonts</a> is one of the premiere font libraries, so our tutorial will focus on their service. But you should explore other options as well, as there may be different font selections to choose from.
+<a href="https://fonts.google.com" target="_new">Google Fonts</a> is one of the premier font libraries, so our tutorial will focus on their service. But you should also explore other options, as there may be different fonts to choose from.
 
 We have 3 options on how we can get fonts from Google Fonts:
 - Option A: By downloading the files and using CSS and @font-face declarations.
