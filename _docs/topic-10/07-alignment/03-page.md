@@ -6,7 +6,7 @@ permalink: /topic-10/text-indent/
 
 <div class="divider-heading"></div>
 
-**First-line indents** are another typesetting property that CSS allows for the manipulation of. This property is controlled via `text-indent: `.
+**First-line indents** are another typesetting property that CSS allows for manipulation. This property is controlled via `text-indent: `.
 
 This property controls how much the first line of a paragraph is indented.
 
@@ -19,7 +19,7 @@ This property controls how much the first line of a paragraph is indented.
 }
 ```
 
-As with many text properties, this once can be passed absolute values with pixels (`px`) or points (`pt`). It can also be passed relative values, such as `em`s.
+As with many text properties, this one can be passed absolute values with pixels (`px`) or points (`pt`). It can also be passed relative values, such as `em`s.
 
 `text-indent:` accepts these term values:
 - `normal` (default, no extra spacing, 0)
