@@ -24,11 +24,11 @@ permalink: /topic-10/font-face-src/
   </div>
 </div>
 
-The source property (`src: url() format()`) tells the browser where to load the font from via the `url()` function, and what type of font it is via the `format()` function.
+The source property (`src: url() format()`) tells the browser where to load the font from via the `url()` function and what type of font it is via the `format()` function.
 
-As with audio and video, not every browser is capable of reading and using every type/format of font. Therefore, you will need to include multiple types of fonts in order to cover support for all browsers.
+As with audio and video, not every browser is capable of reading and using every type/format of font. Therefore, you will need to include multiple types of fonts to cover support for all browsers.
 
-Common font file-extentions and their formats are:
+Common font file extentions and their formats are:
 - `.ttf` - TrueType Fonts, `format('truetype')`
 - `.otf` - OpenType Fonts, `format('opentype')`
 - `.woff` - Web Open Font Format, `format('woff')`
