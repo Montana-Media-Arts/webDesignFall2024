@@ -6,7 +6,7 @@ permalink: /topic-10/hori-align/
 
 <div class="divider-heading"></div>
 
-Alignment properties allows developers to specify how text should be positioned within an element.
+Alignment properties allow developers to specify how text should be positioned within an element.
 
 The **text alignment** property (`text-align: `) specifies horizontal placement of text in an element.
 
