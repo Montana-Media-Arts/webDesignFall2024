@@ -6,7 +6,7 @@ permalink: /topic-10/kerning/
 
 <div class="divider-heading"></div>
 
-**Kerning** is the amount of space placed between two glyphs (or representation of a character). This is not to be consufed with _tracking_, which is the consistant degree of space between all charaters.
+**Kerning** is the amount of space between two glyphs (or the representation of a character). This is not to be confused with _tracking_, which is the consistent degree of space between all characters.
 
 <img src="../img/typography-kerning.jpg" style="height: 200px; margin: auto" alt="kerning" title="kerning"/>
 
@@ -31,9 +31,9 @@ To adjust how glyphs are spaced, use the `font-kerning: ` property.
 
 Adjusting the kerning of a font in web typography is not often needed.
 
-You'll notice that adjusting kerning below creates only a subtle difference. Well-kerned fonts are uniform and pleasant to read, and have specified kerning stored in them which is applied by default.
+You'll notice that adjusting the kerning below creates only a subtle difference. Well-kerned fonts are uniform and pleasant to read and have specified kerning stored in them, which is applied by default.
 
-This does not mean you shouldn't consider the kerning of the font, or changing it; just that your decision should be an informed one.
+This does not mean you shouldn't consider kerning the font or changing it; just that your decision should be an informed one.
 
 
 <div class="codepen-embed">
