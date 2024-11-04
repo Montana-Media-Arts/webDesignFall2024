@@ -9,9 +9,9 @@ permalink: /topic-10/font-weight/
 <link rel="stylesheet" href="../ex-files/fonts.css">
 <link rel="stylesheet" href="../ex-files/style.css">
 
-Within CSS, **font weight** and the `font-weight` property (in its most basic use) specifies whether a font is "normal" or "bold".
+Within CSS, **font weight** and the `font-weight` property (in its most basic use) specify whether a font is "normal" or "bold".
 
-**Bold** is the weight you are familiar with: setting this in CSS should cause the text to look the same as if would if you used the `<b>...</b>` tags in HTML. In addition to the bold font weight, depending on the font-family superclass, it is possible to also specify varying weights thus:
+**Bold** is the weight you are familiar with: setting this in CSS should cause the text to look the same as it would if you used the `<b>...</b>` tags in HTML. In addition to the bold font weight, depending on the font-family superclass, it is possible also to specify varying weights thus:
 
 `font-weight:` accepts these term values:
 - `lighter`
