@@ -13,7 +13,7 @@ There are a few ways to accomplish this, but we will focus on two:
 - percent (`%`)
 - ems (`em)`
 
-Both are relatively similar in how they work. A value of `100%` or `1em` will both leave the font size the same as the parent element. Likewise a value of `50%` or `0.5em` will reduce the font size by half.
+Both are relatively similar in how they work. A value of `100%` or `1em` will both leave the font size the same as the parent element. Likewise, a value of `50%` or `0.5em` will reduce the font size by half.
 
 <span class="label label-info">NOTE:</span> An `em` is described as being the width of the letter 'm'. So 1em is the width of an 'm' in the specified font.
 
