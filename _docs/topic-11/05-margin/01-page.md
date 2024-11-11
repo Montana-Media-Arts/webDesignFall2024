@@ -13,7 +13,7 @@ Looking back to our box model, we can see that the **margin** is the space betwe
 As with padding, margin accepts both absolute and relative size units.
 
 ### Margin Shorthand Property
-Margin also allows has a shorthand property. Likewise with padding, a single value will define all margins, or a trail of values can be used to set the top, right, bottom, and left margins in a single rule.
+Margin also has a shorthand property. As with padding, a single value defines all margins or a trail of values can be used to set the top, right, bottom, and left margins in a single rule.
 
 <div class="code-heading">
   <span class="css">CSS</span>
