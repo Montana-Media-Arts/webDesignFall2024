@@ -8,7 +8,7 @@ permalink: /topic-11/padding-intro/
 
 <img src="../img/box-model-padding.gif" alt="padding being added" style="width: 350px; margin: 0 auto 30px;" />
 
-Another technique for changing the size of individual boxes (as well as controlling the relationships of elements to each other) is with the margin & padding CSS properties.
+Another technique for changing the size of individual boxes (and controlling the relationships of elements to each other) is to use the margin and padding CSS properties.
 
 **Padding**, as seen in the image above, is the amount of space between the inner content of the element and the element itself (a border was included to help you see this).
 
