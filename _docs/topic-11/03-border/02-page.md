@@ -6,11 +6,11 @@ permalink: /topic-11/border-properties/
 
 <div class="divider-heading"></div>
 
-Like margin and padding (which you'll learn about soon), borders help define the amount of space a box or element takes up, as well as its relationship to other boxes.
+Like margin and padding (which you'll learn about soon), borders help define the amount of space a box or element takes up and its relationship to other boxes.
 
-_Unlike_ margin and padding, however, the border portion of the box can be separately colored, and has multiple style options. Border is more of a visual styling tool, than a space management tool.
+_Unlike_ margin and padding, however, the border portion of the box can be separately colored and has multiple style options. Border is more of a visual styling tool than a space management tool.
 
-There are three properties that make up a border:
+Three properties make up a border:
 - Width
 - Style
 - Color
@@ -18,12 +18,12 @@ There are three properties that make up a border:
 
 ### Border Width
 
-The first property that defines a boxes border is the "**border width**" (`border-width: `). This takes a measurement value that may be pixels, points, percentages, or ems.
+The first property that defines a box's border is the "**border width**" (`border-width: `). This takes a measurement value that may be pixels, points, percentages, or ems.
 
 
 ### Border Style
 
-The second property that defines a boxes border is the "**border style**" (`border-style: `). This takes a predefined keyword as its property:
+The second property that defines a box's border is the "**border style**" (`border-style: `). This takes a predefined keyword as its property:
 
 - <div style="border-style:solid;padding:0.25em;margin-bottom:0.5em;">solid</div>
 - <div style="border-style:dashed;padding:0.25em;margin-bottom:0.5em;">dashed</div>
