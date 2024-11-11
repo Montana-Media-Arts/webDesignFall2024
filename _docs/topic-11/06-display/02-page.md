@@ -6,7 +6,7 @@ permalink: /topic-11/display-properties/
 
 <div class="divider-heading"></div>
 
-The CSS `display:` property allows developers to explicitly specify and/or change the display properties for any element, including the option to "hide" an element. This greatly increases the developers ability to create layouts that support the presentation of content in a web browser.
+The CSS `display:` property allows developers to explicitly specify and/or change the display properties for any element, including the option to "hide" an element. This greatly increases the developer's ability to create layouts that support content presentation in a web browser.
 
 The `display:` property is called on the actual element it is being applied to (as opposed to a parent element holding child elements).
 
@@ -30,7 +30,7 @@ The `display: inline;` rule forces elements to act like inline elements.  Inline
 
 The `display: inline-block;` rule, like `display: inline;`, removes new lines inherent in block elements. Unlike `display: inline;`, `display: inline-block;` also forces elements to respect margin and vertical spacing properties/rules.
 
-However, this also means these elements will expand horizontally to fill the parent-container. Therefore, you must _explicitly_ set the width of these elements.
+However, this also means these elements will expand horizontally to fill the parent container. So, you'll need to _explicitly_ set the width of these elements.
 
 
 ### Block
