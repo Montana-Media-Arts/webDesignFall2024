@@ -12,13 +12,13 @@ tags:
   <h2 style="text-align: center;">CSS Positioning</h2>
 </div>
 
-This is a significant Topic, as we will start to look at how we can use CSS to adjust the layout of elements within our websites. Specifically, we will be looking at element boxes, block elements, and their positioning on the page. This involves setting height and width amounts (including minimum and maxium values), margins, padding, borders, and visibility.
+This is a significant topic, as we will start to look at how we can use CSS to adjust the layout of elements within our websites. Specifically, we will be looking at element boxes, block elements, and their positioning on the page. This involves setting height and width amounts (including minimum and maximum values), margins, padding, borders, and visibility.
 
-Knowing these properties in the first step in creating site layouts, and will help you as you get into more advanced design principles.
+Knowing these properties is the first step in creating exciting site layouts and will help you as you learn more advanced design principles.
 
-By the end of this Topic, we hope you:
+By the end of this topic, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Have a better understanding about block levels.</li>
+  <li class="icon-pro">Have a better understanding of block levels.</li>
   <li class="icon-pro">Can place elements on the page <i>where</i> you want them to live.</li>
   <li class="icon-pro">Begin to think about layout when approaching creating content for webpages.</li>
 </ul>
