@@ -8,9 +8,9 @@ permalink: /topic-11/box-model/
 
 <img src="../img/box-model-full.gif" alt="the full css box model" style="width: 350px; margin: 0 auto 30px;" />
 
-To begin, we create "boxes" by setting a specified width and height. But setting an area with only these properties will give us a space to contain content (say color or text) so-wide by so-high, but little else. We cannot control placement, cushion, or relationship to other boxes without giving the stylesheet more information.
+To begin with, we create "boxes" by setting a specified width and height. Setting an area with only these properties will give us a space to contain content (like color or text) so wide by so high but little else. For example, we cannot control placement, cushion, or relationship to other boxes without giving the stylesheet more information.
 
-Luckily, there's pretty standard CSS template for getting started:
+Luckily, there's a pretty standard CSS template for getting started:
 
 <div class="code-heading">
   <span class="css">CSS</span>
