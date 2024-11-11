@@ -14,7 +14,7 @@ In the following example, notice how the addition of a border changes the space 
 </div>
 
 
-Additionally, see how you can set properties individually for differnent sizing and effects.
+Additionally, see how you can set properties individually for different sizing and effects.
 
 <div class="codepen-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="KKMoORm" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Borders, Pt. 3" class="codepen"></p>
