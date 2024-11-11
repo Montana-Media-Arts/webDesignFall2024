@@ -8,7 +8,7 @@ permalink: /topic-11/overflow-intro/
 
 <img src="../img/box-model-overflow.gif" alt="example of overflow scrolling" style="width: 350px; margin: 0 auto 30px;" />
 
-We saw an example on the <a href="./../box-sizing#combine-size" target="_blank">combing size types</a>, where the text inside an element "overflowed" its containing box. We can choose to address this situation in a couple of ways:
+We saw an example on the <a href="./../box-sizing#combine-size" target="_blank">combine size types</a>, where the text inside an element "overflowed" its containing box. We can choose to address this situation in a couple of ways:
 
 1. Ignore it (boo!).
 2. Resize our elements so they fit the content.
