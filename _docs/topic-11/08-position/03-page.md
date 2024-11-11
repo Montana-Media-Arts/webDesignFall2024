@@ -6,9 +6,9 @@ permalink: /topic-11/position-relative/
 
 <div class="divider-heading"></div>
 
-Setting the position property to "relative" (`position: relative;`) allows developers to specify an amount off of the normal flow position. Rather, when an element is set to relative, it will still follow normal flow, but can be moved, relative to that position.
+Setting the position property to "relative" (position: relative;) allows developers to adjust an element's position slightly from its original place in the normal document flow. When an element is positioned relatively, it maintains its spot in the normal flow but can be moved relative to that position using offset properties (top, right, bottom, left).
 
-**NOTE:** This does not effect the position of surrounding elements. These other elements will continue to be positioned where they would in normal flow. This is true even if the altered element is positioned over them.
+**NOTE:** This does not affect the position of surrounding elements. These other elements will remain positioned where they would in normal flow. This is true even if the altered element is positioned over them.
 
 In the below example, notice how the `top:` and `left:` properties are used to move the second paragraph to the lower-right of where its
 normal flow" position would have been.
