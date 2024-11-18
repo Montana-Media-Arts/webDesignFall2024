@@ -27,7 +27,7 @@ The mobile-first design concept first came into the limelight in 2010 when Eric 
 
 He said:
 
-“What’s really important right now is to get the mobile architecture right. Mobile will ultimately be the way you provision most of your services. The way I like to put it is, the answer should always be mobile-first. You should always put your best team and your best app on your mobile app.”
+“What’s really important right now is to get the mobile architecture right. Mobile will ultimately be the way you provision most of your services. The way I like to put it is that the answer should always be mobile-first. You should always put your best team and your best app on your mobile app.”
 
 The reasoning behind this is simple: Mobile design is more limited. After all, you’re designing for a smaller screen and can only fit so many elements into it. That means you choose only what’s most important—what your users need the most—while ignoring everything else.
 
@@ -44,9 +44,9 @@ And, hot tip if you’re keeping your eyes on traffic: Google’s algorithm favo
 
 From Google:
 
-“Getting good, relevant answers when you search shouldn’t depend on what device you’re using. You should get the best answer possible, whether you’re on a phone, desktop or tablet. […] We started using mobile-friendliness as a ranking signal on mobile searches. […] We’ll start rolling out an update to mobile search results that increases the effect of the ranking signal to help our users find even more pages that are relevant and mobile-friendly.”
+“Getting good, relevant answers when you search shouldn’t depend on what device you’re using. You should get the best answer possible, whether you’re on a phone, desktop, or tablet. […] We started using mobile-friendliness as a ranking signal on mobile searches. […] We’ll start rolling out an update to mobile search results that increases the effect of the ranking signal to help our users find even more pages that are relevant and mobile-friendly.”
 
-That means by providing a good user experience on mobile, you increase your discoverability—not to mention potentially your conversion rates.
+That means that by providing a good user experience on mobile, you increase your discoverability—not to mention potentially your conversion rates.
 
 And if we’re talking about experience, mobile-first design offers a wealth of opportunities for accessibility. Let’s discuss.
 
@@ -54,8 +54,8 @@ And if we’re talking about experience, mobile-first design offers a wealth of 
 
 Here are a few ways mobile-first design and accessible design overlap:
 
-Small-screen friendly. Mobile-first design pushes you to make your digital products more readable on smaller screens—and therefore more accessible to people who might be hard of seeing. And when your designs help people with limited vision, they’ll also help everyone else. This is classic, “Rising tide raises all ships.”
-Hierarchy of information. As we’ll go into later, mobile-first means content first. That means, putting your most important content assets (i.e. the ones your users want) as soon as possible on your page. This also makes your content accessible to anyone with cognitive disabilities.
+Small-screen friendly. Mobile-first design pushes you to make your digital products more readable on smaller screens—and, therefore, more accessible to people who might be hard of seeing. And when your designs help people with limited vision, they’ll also help everyone else. This is classic, “Rising tide raises all ships.”
+Hierarchy of information. As we’ll go into later, mobile-first means content first. That means putting your most important content assets (i.e., the ones your users want) on your page as soon as possible. This also makes your content accessible to anyone with cognitive disabilities.
 
 **3 tips for good mobile-first design**
 
@@ -65,7 +65,7 @@ When it comes to mobile-first design, you need to remember one thing: Content is
 
 You need to give your users all the content they’re looking for—and only that. Anything else might clutter and distract from your users’ experience.
 
-After all, designing for mobile devices comes with a big constraint in screen sizes. That means you need to take a look at all of your content and present it in a visual hierarchy depending on how important it is to your user.
+After all, designing for mobile devices comes with a big constraint in screen sizes. That means you need to look at all your content and present it in a visual hierarchy, depending on how important it is to your user.
 
 Only then can you fit the most important elements.
 
@@ -83,21 +83,21 @@ Not only that, but it also increases the time it takes to use the navigation by 
 
 Unfortunately, offering all of your possible links at once is unfeasible. Luckily, there’s a way you can get the best of both worlds.
 
-Joe Toscano, an experience design consultant, recommends using combo navigation.
+Joe Toscano, a user experience design consultant, recommends using combo navigation.
 
 Toscano writes,
 
 “Combo navigation allows the user to see the options they need the most and makes the rest accessible in a hamburger menu or something similar. […] The site’s content is laid out so well that I don’t need nav buttons. I can scroll the page and get where I want very easily. 
 
-### Tip #3: KISS (Keep it simple, stupid)
+### Tip #3: KISS (Keep It Super Simple)
 
 Good mobile design is simple.
 
-You never want to burden your users with extraneous elements like ads, pop-ups, and other content they don’t want to see—but especially not on mobile. Limit your limited visual real estate to only including the things they’re on the page for.
+You never want to burden your users with extraneous elements like ads, pop-ups, and other content they don’t want to see—especially not on mobile. Limit your limited visual real estate to include only what they’re on the page for.
 
 **Keep the user in mind**
 
-In the end, the most important thing to remember when approaching mobile-first design is that you’re doing it for your user—and only your user.
+Ultimately, the most important thing to remember when approaching mobile-first design is that you do it for your user—and only your user.
 
 If it doesn’t add value to their experience, you can probably leave it on the cutting room floor.
 
