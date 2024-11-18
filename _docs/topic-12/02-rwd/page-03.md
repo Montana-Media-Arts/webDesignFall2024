@@ -14,9 +14,9 @@ Let's review what viewport is.
 
 **What is Viewport?** 
 
-A Browser’s viewport is the area of web page in which the content is visible to the user. The viewport does not have the same size; it varies with the screen size of the devices on which the website is visible. For a laptop, the viewport has a larger size as compared to a smartphone or tablet.
+A Browser’s viewport is the area of a web page on which the content is visible to the user. The viewport does not have the same size; it varies with the screen size of the devices on which the website is visible. For a laptop, the viewport is larger than that of a smartphone or tablet.
 
-**Note:** When a page is not made responsive for smaller viewports it looks bad or even breaks on smaller screen. To fix this problem introduce a responsive tag to control the viewport. This tag was firs introduced by Apple Inc. for Safari iOS.
+**Note:** When a page is not made responsive for smaller viewports, it looks bad or even breaks on a smaller screen. To fix this problem, introduce a responsive tag to control the viewport. This tag was first introduced by Apple Inc. for Safari iOS.
 
 **Syntax:**
 
@@ -24,9 +24,9 @@ A Browser’s viewport is the area of web page in which the content is visible t
 <meta name="viewport" content= "width=device-width, initial-scale=1.0"> 
 ```
 
-This is the common viewport used in various mobile-optimized websites. The width property governs the size of the viewport. It is possible to set it to a specific value setting like `“width=600”` in terms of CSS pixels. Here, it is set to a special value `width= device-width”` which is the width of the device in terms of CSS pixels at a scale of 100%. The initial-scale property governs the zoom level when the page is loaded for the first time.
+This is the common viewport used in various mobile-optimized websites. The width property governs the size of the viewport. It is possible to set it to a specific value setting like `“width=600”` in terms of CSS pixels. Here, it is set to a special value `width= device-width”` which is the device's width in terms of CSS pixels at a scale of 100%. The initial-scale property governs the zoom level when the page is loaded for the first time.
 
-**Note:** The meta tag should be added in the head tag in the HTML document.
+**Note:** The meta tag should be added to the HTML document's head tag.
 
 A Responsive tag has the following attributes:
 
@@ -94,7 +94,7 @@ So, if the user is forced to scroll horizontally or zoom out to see the whole we
 
 Some additional rules to follow:
 
-1. **Do NOT use large fixed-width elements** - For example, if an image is displayed at a width wider than the viewport it can cause the viewport to scroll horizontally. Remember to adjust this content to fit within the width of the viewport.
+1. **Do NOT use large fixed-width elements** - For example, if an image is displayed at a width wider than the viewport, it can cause the viewport to scroll horizontally. Remember to adjust this content to fit within the width of the viewport.
 
 2. **Do NOT let the content rely on a particular viewport width to render well** - Since screen dimensions and width in CSS pixels vary widely between devices, content should not rely on a particular viewport width to render well.
 
