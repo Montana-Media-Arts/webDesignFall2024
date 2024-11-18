@@ -21,7 +21,7 @@ img {
 }
 ```
 
-**Note** the image can be scaled up to be larger than its original size. A better solution, in many cases, will be to use the max-width property instead.
+**Note** The image can be scaled up to be larger than its original size. In many cases, a better solution will be to use the max-width property instead.
 
 ### max-width property
 
@@ -47,7 +47,7 @@ Background images can also respond to resizing and scaling.
 
 There are three different methods:
 
-If the background-size property is set to "contain", the background image will scale, and try to fit the content area. However, the image will keep its aspect ratio (the proportional relationship between the image's width and height):
+If the background-size property is set to "contain", the background image will scale and try to fit the content area. However, the image will keep its aspect ratio (the proportional relationship between the image's width and height):
 
 ```css
 div {
@@ -78,7 +78,7 @@ div {
   <p data-height="600" data-theme-id="30567" data-slug-hash="JjKmEJz" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="div background-size:100 100" class="codepen"></p>
 </div>
 
-If the background-size property is set to "cover", the background image will scale to cover the entire content area. Notice that the "cover" value keeps the aspect ratio, and some part of the background image may be clipped.
+If the background-size property is set to "cover" the background, the image will scale to cover the entire content area. Notice that the "cover" value keeps the aspect ratio, and some part of the background image may be clipped.
 
 ```css
 div {
@@ -95,7 +95,7 @@ div {
 
 ### Different Images for Different Devices
 
-A large image can be perfect on a big computer screen, but useless on a small device. Why load a large image when you have to scale it down anyway? To reduce the load, or for any other reasons, you can use media queries to display different images on different devices.
+A large image can be perfect on a big computer screen but useless on a small device. Why load a large image when you have to scale it down anyway? To reduce the load or for any other reason, you can use media queries to display different images on different devices.
 
 Here is one large image and one smaller image that will be displayed on different devices.
 
@@ -118,7 +118,7 @@ body {
 </div>
 
 
-Another option is the choose the device width rather than the width.
+Another option is to choose the device width rather than the width.
 
 ```css
 /* For devices 600px and larger: */
