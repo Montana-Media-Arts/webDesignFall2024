@@ -13,7 +13,7 @@ By now you should be familiar with <a href="../../topic-11/position-relative/" t
 
 
 ## Fixed (Never Moves)
-Setting an element to **fixed position** (`position: fixed;`) is similar to using absolute positioning in that the position is in relation to the browser, instead of any parent elements. Unlike absolute position though, fixed position is in relation to the _viewable_ portion of the browser. This means, that even when you scroll, an element set to fixed will remain viewable in the browser window.
+Setting an element to **fixed position** (`position: fixed;`) is similar to using absolute positioning in that the position is in relation to the browser instead of any parent elements. Unlike absolute position, though, fixed position is related to the _viewable_ portion of the browser. This means that even when you scroll, an element set to fixed will remain viewable in the browser window.
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="qBNYWae" data-default-tab="result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Dropdown Menu with Fixed Header" class="codepen"></p>
