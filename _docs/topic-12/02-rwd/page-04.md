@@ -9,7 +9,7 @@ tags:
 <div class="divider-heading"></div>
 
 
-Tap targets are vital when it comes to using our mobile devices.  Creating responsive web sites are no different.  We must take care in creating websites that are still useful when they resize.
+Tap targets are vital when using mobile devices. Creating responsive web sites is no different.  We must take care in creating websites that are still useful when they resize.
 
 
 ## Tap Targets
