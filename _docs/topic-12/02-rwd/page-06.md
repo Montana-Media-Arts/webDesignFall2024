@@ -59,7 +59,7 @@ Mobile First means designing for mobile before designing for desktop or any othe
 
 This means that we must make some changes in our CSS.
 
-Instead of changing styles when the width gets smaller than 768px, we should change the design when the width gets larger than 768px. This will make our design Mobile First.
+Instead of changing styles when the width becomes smaller than 768px, we should change the design when the width becomes larger than 768px. This will make our design Mobile-First.
 
 ```css
 /* For mobile phones: */
