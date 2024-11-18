@@ -10,11 +10,11 @@ tags:
 
 ## Building a Responsive Grid-View
 
-Lets start building a responsive grid-view.
+Let's start building a responsive grid view.
 
-First ensure that all HTML elements have the box-sizing property set to border-box. This makes sure that the padding and border are included in the total width and height of the elements.
+First, ensure that all HTML elements have the box-sizing property set to border-box. This ensures that the padding and border are included in the total width and height of the elements.
 
-Add the following code in your CSS:
+Add the following code to your CSS:
 
 ```css
 * {
@@ -22,7 +22,7 @@ Add the following code in your CSS:
   }
 ```
 
-The following example shows a simple responsive web page, with two columns:
+The following example shows a simple responsive web page with two columns:
 
 ```css
 .menu {
@@ -75,9 +75,9 @@ p{
   <p data-height="600" data-theme-id="30567" data-slug-hash="OJXoqPN" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grid-View 2 Column" class="codepen"></p>
 </div>
 
-What if we want to use a responsive grid-view with 12 columns, to have more control over the web page.
+What if we want to use a responsive grid-view with 12 columns to have more control over the web page?
 
-First calculate the percentage for one column: 100% / 12 columns = 8.33%.
+First, calculate the percentage for one column: 100% / 12 columns = 8.33%.
 
 Then make one class for each of the 12 columns, class="col-" and a number defining how many columns there are:
 
@@ -138,7 +138,7 @@ We should also apply the following to all the classes
 </div>
 ```
 
-In this example, let's look at shrinking the size of the menu and then letting the rest of the content fill the page.  If the screen is too small, then it will wrap to the next line instead of crowding the menu.
+In this example, let's shrink the size of the menu and let the rest of the content fill the page. If the screen is too small, it will wrap to the next line instead of crowding the menu.
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="ExyeMKO" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grid-View 12 Column" class="codepen"></p>
