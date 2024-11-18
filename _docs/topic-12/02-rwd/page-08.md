@@ -15,7 +15,7 @@ The goal is to create an iframe that will keep the aspect ratio (4:3, 16:9, etc.
 
 ### What is aspect ratio?
 
-The aspect ratio of an element describes the proportional relationship between its width and its height. Two common video aspect ratios are 4:3 (the universal video format of the 20th century), and 16:9 (universal for HD television and European digital television, and for YouTube videos).
+The aspect ratio of an element describes the proportional relationship between its width and height. Two common video aspect ratios are 4:3 (the universal video format of the 20th century), and 16:9 (universal for HD television and European digital television, and for YouTube videos).
 
 
 Use a container element, like <div>, and add the iframe inside of it:
