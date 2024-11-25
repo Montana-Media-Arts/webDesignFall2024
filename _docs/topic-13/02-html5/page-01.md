@@ -59,13 +59,13 @@ A look at the new outlining and sectioning elements in HTML5:
 
 ### Forms improvements
 
-A look at the constraint validation API, several new attributes, new values for the `<input>` attribute type and the new `<output>` element.
+A look at the constraint validation API, several new attributes, new values for the `<input>` attribute type, and the new `<output>` element.
 New semantic elements
 Beside sections, media and forms elements, there are numerous new elements, like `<mark>`, `<figure>`, `<figcaption>`, `<data>`, `<time>`, `<output>`, `<progress>`, or `<meter>` and `<main>`, increasing the number of valid HTML5 elements.
 
 **Improvement in `<iframe>`**
 
-Using the sandbox and srcdoc attributes, authors can now be precise about the level of security and the wished rendering of an '<iframe>' element.
+Using the sandbox and srcdoc attributes, authors can now be precise about the level of security and the desired rendering behavior of an '<iframe>' element.
 
 **MathML**
 
@@ -79,15 +79,15 @@ The parser, which turns the bytes of an HTML document into a DOM, has been exten
 
 **Web Sockets**
 
-Allows creating a permanent connection between the page and the server and to exchange non-HTML data through that means.
+Allows for creating a permanent connection between the page and the server and exchanging non-HTML data.
 
 **Server-sent events**
 
-Allows a server to push events to a client, rather than the classical paradigm where the server could send data only in response to a client's request.
+Allows a server to push events to a client, rather than the classical paradigm, where the server could send data only in response to a client's request.
 
 ### WebRTC
 
-This technology, where RTC stands for Real-Time Communication, allows connecting to other people and controlling videoconferencing directly in the browser, without the need for a plugin or an external application.
+This technology, where RTC stands for Real-Time Communication, allows connecting to other people and controlling videoconferencing directly in the browser without needing a plugin or an external application.
 
 ### Offline & storage
 
@@ -97,17 +97,17 @@ Firefox fully supports the HTML5 offline resource specification. Most others hav
 
 **Online and offline events**
 
-Firefox 3 supports WHATWG online and offline events, which let applications and extensions detect whether or not there's an active Internet connection, as well as to detect when the connection goes up and down.
+Firefox 3 supports WHATWG online and offline events, which let applications and extensions detect whether or not there's an active Internet connection and when the connection goes up and down.
 WHATWG client-side session and persistent storage (aka DOM storage)
-Client-side session and persistent storage allows web applications to store structured data on the client side.
+Client-side session and persistent storage allow web applications to store structured data on the client side.
 
 **IndexedDB**
 
-IndexedDB is a web standard for the storage of significant amounts of structured data in the browser and for high performance searches on this data using indexes.
+IndexedDB is a web standard for storing significant amounts of structured data in the browser and for high-performance searches on this data using indexes.
 
 **Using files from web applications**
 
-Support for the new HTML5 File API has been added to Gecko, making it possible for web applications to access local files selected by the user. This includes support for selecting multiple files using the `<input>` of type file HTML element's new multiple attribute. There also is FileReader.
+Gecko now supports the HTML5 File API, enabling web applications to access local files the user selects. This includes support for selecting multiple files through the new multiple attribute on the <input> element. Additionally, the FileReader API is available.
 
 ### Multimedia
 
@@ -117,11 +117,11 @@ The `<audio>` and `<video>` elements embed and allow the manipulation of new mul
 
 **WebRTC**
 
-This technology, where RTC stands for Real-Time Communication, allows connecting to other people and controlling videoconferencing directly in the browser, without the need for a plugin or an external application.
+This technology, where RTC stands for Real-Time Communication, allows connecting to other people and controlling videoconferencing directly in the browser without needing a plugin or an external application.
 
 **Track and WebVTT**
 
-The `<track>` element allows subtitles and chapters. WebVTT is a text track format.
+The `<track>` element allows subtitles and chapters. WebVTT is a text-track format.
 
 **2D/3D graphics AND effects**
 
@@ -129,7 +129,7 @@ The HTML5 text API is now supported by `<canvas>` elements.
 
 ### WebGL
 
-WebGL brings 3D graphics to the Web by introducing an API that closely conforms to OpenGL ES 2.0 that can be used in HTML5 `<canvas>` elements.
+WebGL brings 3D graphics to the Web by introducing an API closely conforming to OpenGL ES 2.0 that can be used in HTML5 `<canvas>` elements.
 
 **SVG**
 
@@ -143,7 +143,7 @@ Allows delegation of JavaScript evaluation to background threads, allowing these
 
 **XMLHttpRequest level 2**
 
-Allows fetching asynchronously some parts of the page, allowing it to display dynamic content, varying according to the time and user actions. This is the technology behind Ajax.
+Allows fetching some parts of the page asynchronously and allowing it to display dynamic content, varying according to the time and user actions. This is the technology behind Ajax.
 
 **JIT-compiling JavaScript engines**
 
@@ -153,12 +153,12 @@ The new generation of JavaScript engines is much more powerful, leading to great
 
 Allows the manipulation of the browser history. This is especially useful for pages loading interactively new information.
 
-The contentEditable Attribute: Transform your website to a wiki!
+The contentEditable Attribute: Transform your website into a wiki!
 HTML5 has standardized the contentEditable attribute. Learn more about this feature.
 
 **Drag and drop**
 
-The HTML5 drag and drop API allows support for dragging and dropping items within and between web sites. This also provides a simpler API for use by extensions and Mozilla-based applications.
+The HTML5 drag-and-drop API allows support for dragging and dropping items within and between websites. This also provides a simpler API for use by extensions and Mozilla-based applications.
 
 **Focus management in HTML**
 
@@ -169,10 +169,10 @@ You can now register web applications as protocol handlers using the navigator.r
 
 **requestAnimationFrame**
 
-Allows control of animations rendering to obtain optimal performance.
+Allows control of animation rendering to obtain optimal performance.
 Fullscreen API
 
-Controls the usage of the whole screen for a Web page or application, without the browser UI displayed.
+Controls the usage of the whole screen for a Web page or application without the browser UI displayed.
 
 **Pointer Lock API**
 
@@ -194,28 +194,28 @@ Let browsers locate the position of the user using geolocation.
 
 **Detecting device orientation**
 
-Get the information when the device on which the browser runs changes orientation. This can be used as an input device (e.g., to make games that react to the position of the device) or to adapt the layout of a page to the orientation of the screen (portrait or landscape).
+Get the information when the device on which the browser runs changes orientation. This can be used as an input device (e.g., to make games that react to the device's position) or to adapt the layout of a page to the orientation of the screen (portrait or landscape).
 
 ### Styling
 
-CSS has been extended to be able to style elements in a much more complex way. This is often referred as CSS3, though CSS is not a monolithic specification any more and the different modules are not all at level 3: some are at level 1 and others at level 4, with all the intermediate levels covered.
+CSS has been extended to style elements in a much more complex way. This is often referred to as CSS3, though CSS is not a monolithic specification any more, and the different modules are not all at level 3: some are at level 1 and others at level 4, with all the intermediate levels covered.
 
 **New background styling features**
 
-It is now possible to put shadows on elements using box-shadow, multiple backgrounds, and CSS filters. You can learn more about these by reading Advanced box effects.
+Putting shadows on elements using box-shadow, multiple backgrounds, and CSS filters is now possible. You can learn more about these by reading Advanced box effects.
 
 **More fancy borders**
 
-Not only it is now possible to use images to style borders, using border-image and its associated longhand properties, but rounded borders are supported via the border-radius property.
+Not only is it now possible to use images to style borders, using border-image and its associated longhand properties, but rounded borders are supported via the border-radius property.
 
 **Animating your style**
 
-Using CSS Transitions to animate between different states or using CSS Animations to animate parts of the page without a triggering event, you can now control mobile elements on your page.
+Using CSS Transitions to animate between different states or CSS Animations to animate parts of the page without a triggering event, you can now control mobile elements on your page.
 
 **Typography improvement**
 
-Authors have better control to reach better typography. They can control text-overflow and hyphenation, but also can add a shadow to it or control more precisely its decorations. Custom typefaces can be downloaded and applied thanks to the new @font-face at-rule.
+Authors now have greater control over typography, allowing them to manage text overflow, hyphenation, and even apply shadows or more precise decorations. Additionally, custom typefaces can be downloaded and applied using the new @font-face at-rule.
 
 **New presentational layouts**
 
-In order to improve the flexibility of designs, two new layouts have been added: the CSS multi-column layouts and CSS flexible box layout.
+Two new layouts have been added to improve the flexibility of designs: the CSS multi-column layouts and CSS flexible box layout.
