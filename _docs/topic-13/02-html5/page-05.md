@@ -6,7 +6,7 @@ categories: development
 tags:
 ---
 
-Finally, we can also work with images and make those appear on the canvas as well. Remember, the idea behind the canvas is that we have a lot more control.  Notice, the second and third parameter in the `drawImage` function is the x-coordinate and the y-coordinate.  So, we can put it where we want on the page.  
+Finally, we can also work with images and make those appear on the canvas as well. Remember, the idea behind the canvas is that we have much more control.  Notice that the second and third parameters in the `drawImage` function are the x-coordinate and the y-coordinate.  Therefore, we can put it where we want on the page.  
 
 ```js
 var c = document.getElementById("myCanvas");
