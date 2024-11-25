@@ -14,7 +14,7 @@ tags:
 
 This is an important topic because it requires that we look at different libraries that exist that help us build something quickly and efficiently but are also flexible enough to make our own.
 
-By the end of this Topic, we hope you:
+By the end of this topic, we hope you:
 <ul class="pros-and-cons">
   <li class="icon-pro">Have a better understanding of different CSS Frameworks.</li>
   <li class="icon-pro">Understand the pros and cons of each of the frameworks.</li>
