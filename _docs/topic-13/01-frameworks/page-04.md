@@ -10,7 +10,7 @@ tags:
 
 <img src="../img/uikit_logo1.png">
 
-The thing that comes to mind when thinking of <a href="https://getuikit.com/" target="_new">UIkit</a> is minimalism. Minimalism not in features (in fact, it offers perhaps the most features of all frameworks), but in design. If super-clean, elegant, non-whitespace-shy designs are your thing, UIkit has you covered.  Here is a basic progress bar.
+When I think of <a href="https://getuikit.com/" target="_new">UIkit</a>, the first thing that comes to mind is minimalism—not in terms of features, as it actually offers one of the most feature-rich frameworks, but in its design. If you appreciate sleek, elegant designs that embrace bold use of space, UIkit is a great fit. Here’s a simple example of a progress bar.
 
 
 ```html
@@ -29,7 +29,7 @@ Or even the humble HTML form:
 
 If this doesn't scream elegance at the top of its lungs, I don’t know what does. Just head over to the UIkit website and check out all the incredible components it has on offer. Unless your project manager or customer forces a particular style language on you, I think Uikit takes the crown for UI design and is several miles ahead of Google’s Material Design.
 
-But is there a catch, you're wondering. Yes, there is. Like Bootstrap, UIkit works with its JavaScript and while you can use jQuery for DOM manipulation, using a virtual DOM framework like React is impossible.
+But is there a catch, you're wondering? Yes, there is. Like Bootstrap, UIkit works with JavaScript, and while you can use jQuery for DOM manipulation, using a virtual DOM framework like React is impossible.
 
 Also, Uikit is a self-contained system, and you won’t be able to modify or extend it without putting in considerable effort.
 
