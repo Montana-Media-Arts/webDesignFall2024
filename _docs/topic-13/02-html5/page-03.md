@@ -11,7 +11,7 @@ tags:
 
 **Add a JavaScript**
 
-After creating the rectangular canvas area, you must add a JavaScript to do the drawing.
+After creating the rectangular canvas area, you must add JavaScript to do the drawing.
 
 Here are some examples:
 
