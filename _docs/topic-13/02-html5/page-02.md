@@ -11,9 +11,9 @@ tags:
 
 **What is HTML Canvas?**
 
-With all those features, the most exciting is the canvas.  It removed the necessity of having Flash and removes the security vulnerabilities of the past.
+Of all those features, the most exciting is the HTML canvas. It removed the necessity of having Flash and the security vulnerabilities of the past.
 
-The HTML `<canvas>` element is used to draw graphics, on the fly, via JavaScript.
+The HTML `<canvas>` element is used to draw graphics on the fly via JavaScript.
 
 The `<canvas>` element is only a container for graphics. You must use JavaScript to actually draw the graphics.
 
@@ -29,5 +29,5 @@ The markup looks like this:
 <canvas id="myCanvas" width="200" height="100"></canvas>
 ```
 
-**Note:** Always specify an id attribute (to be referred to in a script), and a width and height attribute to define the size of the canvas. To add a border, use the style attribute.
+**Note:** Always specify an id attribute (to be referred to in a script) and a width and height attribute to define the size of the canvas. To add a border, use the style attribute.
 
